@@ -4,539 +4,539 @@
     <channel id="axn">
         <display-name>AXN</display-name>
     </channel>
-    <programme start="06:05" stop="07:05" channel="axn">
+    <programme start="20181001060500" stop="20181001070500" channel="axn">
         <title lang="pl">Detektyw Monk (12)</title>
         <desc lang="pl">Przygody specjalisty od ogl?dzin miejsc zbrodni, Adriana Monka. Po morderstwie ?ony m??czyzna cierpi na powa?n? nerwic? natr?ctw.</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="07:05" stop="08:05" channel="axn">
+    <programme start="20181001070500" stop="20181001080500" channel="axn">
         <title lang="pl">Detektyw Monk (13-ost.)</title>
         <desc lang="pl">Przygody specjalisty od ogl?dzin miejsc zbrodni, Adriana Monka. Po morderstwie ?ony m??czyzna cierpi na powa?n? nerwic? natr?ctw.</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="08:05" stop="09:00" channel="axn">
+    <programme start="20181001080500" stop="20181001090000" channel="axn">
         <title lang="pl">Agenci NCIS: Nowy Orlean 3 (12)</title>
         <desc lang="pl">Cz?onkowie NCIS musz? uratowa? Pride'a. Znajduje si? on na platformie wiertniczej, na której wkrótce mo?e doj?? do eksplozji. Trafi? tam,...</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="09:00" stop="09:55" channel="axn">
+    <programme start="20181001090000" stop="20181001095500" channel="axn">
         <title lang="pl">Flash 4 (21)</title>
         <desc lang="pl">W 4. sezonie popularnego serialu Barry Allen, jako obdarzony nadludzk? pr?dko?ci? superbohater Flash, znów zmierzy si? z hord? z?oczy?ców. Na...</desc>
         <category lang="pl">serial akcji</category>
     </programme>
-    <programme start="09:55" stop="10:50" channel="axn">
+    <programme start="20181001095500" stop="20181001105000" channel="axn">
         <title lang="pl">MacGyver (5)</title>
         <desc lang="pl">Maj?c do dyspozycji pod?okietnik, karnisz i wyka?aczk?, MacGyver musi naprawi? uszkodzony poci?g. To nie lada wyzwanie, zw?aszcza ?e na jego...</desc>
         <category lang="pl">serial akcji</category>
     </programme>
-    <programme start="10:50" stop="11:50" channel="axn">
+    <programme start="20181001105000" stop="20181001115000" channel="axn">
         <title lang="pl">Detektyw Monk 2 (1/16)</title>
         <desc lang="pl">Cierpi?cy na nerwic? natr?ctw detektyw Adrian Monk prowadzi kolejne ?ledztwo.</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="11:50" stop="12:50" channel="axn">
+    <programme start="20181001115000" stop="20181001125000" channel="axn">
         <title lang="pl">Detektyw Monk 2 (2)</title>
         <desc lang="pl">Cierpi?cy na nerwic? natr?ctw detektyw Adrian Monk prowadzi kolejne ?ledztwo.</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="12:50" stop="13:50" channel="axn">
+    <programme start="20181001125000" stop="20181001135000" channel="axn">
         <title lang="pl">Hawaii Five-0 (6)</title>
         <desc lang="pl">W Honolulu dzia?a policyjny zespó? do zada? specjalnych. Dowodzi nim detektyw Steve McGarrett. Cz?onkowie oddzia?u dysponuj? du?? swobod?.</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="13:50" stop="14:45" channel="axn">
+    <programme start="20181001135000" stop="20181001144500" channel="axn">
         <title lang="pl">Flash 4 (21)</title>
         <desc lang="pl">W 4. sezonie popularnego serialu Barry Allen, jako obdarzony nadludzk? pr?dko?ci? superbohater Flash, znów zmierzy si? z hord? z?oczy?ców. Na...</desc>
         <category lang="pl">serial akcji</category>
     </programme>
-    <programme start="14:45" stop="15:40" channel="axn">
+    <programme start="20181001144500" stop="20181001154000" channel="axn">
         <title lang="pl">MacGyver (5)</title>
         <desc lang="pl">Maj?c do dyspozycji pod?okietnik, karnisz i wyka?aczk?, MacGyver musi naprawi? uszkodzony poci?g. To nie lada wyzwanie, zw?aszcza ?e na jego...</desc>
         <category lang="pl">serial akcji</category>
     </programme>
-    <programme start="15:40" stop="16:40" channel="axn">
+    <programme start="20181001154000" stop="20181001164000" channel="axn">
         <title lang="pl">MacGyver (6)</title>
         <desc lang="pl">MacGyver próbuje rozbroi? bomb? ulokowan? w pobli?u gmachu ONZ. Okazuje si?, ?e zamachowcem jest stary wróg agenta - os?awiony Duch....</desc>
         <category lang="pl">serial akcji</category>
     </programme>
-    <programme start="16:40" stop="17:40" channel="axn">
+    <programme start="20181001164000" stop="20181001174000" channel="axn">
         <title lang="pl">Agenci NCIS: Nowy Orlean 3 (13)</title>
         <desc lang="pl">Gin? cztery osoby, a w sieci pojawiaj? si? kompromituj?ce filmiki z udzia?em przedstawicieli w?adzy miejskiej. Sprawc? mo?e by? haker powi?zany...</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="17:40" stop="18:40" channel="axn">
+    <programme start="20181001174000" stop="20181001184000" channel="axn">
         <title lang="pl">Hawaii Five-0 (6)</title>
         <desc lang="pl">W Honolulu dzia?a policyjny zespó? do zada? specjalnych. Dowodzi nim detektyw Steve McGarrett. Cz?onkowie oddzia?u dysponuj? du?? swobod?.</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="18:40" stop="21:00" channel="axn">
+    <programme start="20181001184000" stop="20181001210000" channel="axn">
         <title lang="pl">S.W.A.T. Jednostka specjalna</title>
         <desc lang="pl">Grupa policjantów eskortuje gro?nego bandyt?.</desc>
         <category lang="pl">film sensacyjny, USA 2003</category>
     </programme>
-    <programme start="21:00" stop="22:00" channel="axn">
+    <programme start="20181001210000" stop="20181001220000" channel="axn">
         <title lang="pl">Premiera: S.W.A.T. (1/22)</title>
         <desc lang="pl">Porucznik Daniel 'Hondo' Harrelson zostaje mianowany dowódc? elitarnej jednostki bojowej w Los Angeles. Próbuje wpoi? podw?adnym swoj? zasad?, zgodnie z...</desc>
         <category lang="pl">serial sensacyjny</category>
     </programme>
-    <programme start="22:00" stop="23:05" channel="axn">
+    <programme start="20181001220000" stop="20181001230500" channel="axn">
         <title lang="pl">Premiera: Profil 8 (8)</title>
         <desc lang="pl">Adele i Rocher badaj? spraw? samobójstwa. 53-letnia Stephanie powiesi?a si? w swoim mieszkaniu. Na miejscu ?ledczy dokonuj? makabrycznego odkrycia. Znajduj?...</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="23:05" stop="01:10" channel="axn">
+    <programme start="20181001230500" stop="20181001011000" channel="axn">
         <title lang="pl">Gra o ?ycie</title>
         <desc lang="pl">By?y policjant dostaje intratne zlecenie. Okazuje si? ono pu?apk?.</desc>
         <category lang="pl">film sensacyjny, USA 2008</category>
     </programme>
-    <programme start="01:10" stop="02:10" channel="axn">
+    <programme start="20181001011000" stop="20181001021000" channel="axn">
         <title lang="pl">Profil 8 (8)</title>
         <desc lang="pl">Adele i Rocher badaj? spraw? samobójstwa. 53-letnia Stephanie powiesi?a si? w swoim mieszkaniu. Na miejscu ?ledczy dokonuj? makabrycznego odkrycia. Znajduj?...</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="02:10" stop="03:00" channel="axn">
+    <programme start="20181001021000" stop="20181001030000" channel="axn">
         <title lang="pl">Breaking Bad 2 (5)</title>
         <desc lang="pl">Nauczyciel chemii dowiaduje si?, ?e pozosta?y mu 2 lata ?ycia. Aby zabezpieczy? przysz?o?? ?ony i syna zaczyna produkowa? metamfetamin?...</desc>
         <category lang="pl">serial obyczajowy</category>
     </programme>
-    <programme start="03:00" stop="03:45" channel="axn">
+    <programme start="20181001030000" stop="20181001034500" channel="axn">
         <title lang="pl">Podró?nicy (3)</title>
         <desc lang="pl">Podró?nikom nie udaje si? ocali? wszystkich ludzi. Grozi im niebezpiecze?stwo. Dru?yna powoli przyzwyczaja si? tak?e do ró?nic mi?dzy XXI wiekiem...</desc>
         <category lang="pl">serial SF</category>
     </programme>
-    <programme start="03:45" stop="06:10" channel="axn">
+    <programme start="20181001034500" stop="20181002061000" channel="axn">
         <title lang="pl">Blok promocyjny AXN</title>
     </programme>
-    <programme start="06:10" stop="07:10" channel="axn">
+    <programme start="20181002061000" stop="20181002071000" channel="axn">
         <title lang="pl">Detektyw Monk 2 (1/16)</title>
         <desc lang="pl">Cierpi?cy na nerwic? natr?ctw detektyw Adrian Monk prowadzi kolejne ?ledztwo.</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="07:10" stop="08:10" channel="axn">
+    <programme start="20181002071000" stop="20181002081000" channel="axn">
         <title lang="pl">Detektyw Monk 2 (2)</title>
         <desc lang="pl">Cierpi?cy na nerwic? natr?ctw detektyw Adrian Monk prowadzi kolejne ?ledztwo.</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="08:10" stop="09:10" channel="axn">
+    <programme start="20181002081000" stop="20181002091000" channel="axn">
         <title lang="pl">Agenci NCIS: Nowy Orlean 3 (13)</title>
         <desc lang="pl">Gin? cztery osoby, a w sieci pojawiaj? si? kompromituj?ce filmiki z udzia?em przedstawicieli w?adzy miejskiej. Sprawc? mo?e by? haker powi?zany...</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="09:10" stop="10:10" channel="axn">
+    <programme start="20181002091000" stop="20181002101000" channel="axn">
         <title lang="pl">Rewir (14)</title>
         <desc lang="pl">Kulisy pracy stró?ów prawa z Wroc?awia. Kamera towarzyszy dwóm policyjnym patrolom w czasie ich codziennych interwencji. To oni jako pierwsi...</desc>
         <category lang="pl">serial fabularno-dokumentalny</category>
     </programme>
-    <programme start="10:10" stop="11:05" channel="axn">
+    <programme start="20181002101000" stop="20181002110500" channel="axn">
         <title lang="pl">MacGyver (6)</title>
         <desc lang="pl">MacGyver próbuje rozbroi? bomb? ulokowan? w pobli?u gmachu ONZ. Okazuje si?, ?e zamachowcem jest stary wróg agenta - os?awiony Duch....</desc>
         <category lang="pl">serial akcji</category>
     </programme>
-    <programme start="11:05" stop="12:05" channel="axn">
+    <programme start="20181002110500" stop="20181002120500" channel="axn">
         <title lang="pl">Detektyw Monk 2 (3)</title>
         <desc lang="pl">Cierpi?cy na nerwic? natr?ctw detektyw Adrian Monk prowadzi kolejne ?ledztwo.</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="12:05" stop="13:05" channel="axn">
+    <programme start="20181002120500" stop="20181002130500" channel="axn">
         <title lang="pl">Detektyw Monk 2 (4)</title>
         <desc lang="pl">Cierpi?cy na nerwic? natr?ctw detektyw Adrian Monk prowadzi kolejne ?ledztwo.</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="13:05" stop="14:05" channel="axn">
+    <programme start="20181002130500" stop="20181002140500" channel="axn">
         <title lang="pl">Hawaii Five-0 (7)</title>
         <desc lang="pl">W Honolulu dzia?a policyjny zespó? do zada? specjalnych. Dowodzi nim detektyw Steve McGarrett. Cz?onkowie oddzia?u dysponuj? du?? swobod?.</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="14:05" stop="15:05" channel="axn">
+    <programme start="20181002140500" stop="20181002150500" channel="axn">
         <title lang="pl">Rewir (14)</title>
         <desc lang="pl">Kulisy pracy stró?ów prawa z Wroc?awia. Kamera towarzyszy dwóm policyjnym patrolom w czasie ich codziennych interwencji. To oni jako pierwsi...</desc>
         <category lang="pl">serial fabularno-dokumentalny</category>
     </programme>
-    <programme start="15:05" stop="16:05" channel="axn">
+    <programme start="20181002150500" stop="20181002160500" channel="axn">
         <title lang="pl">MacGyver (6)</title>
         <desc lang="pl">MacGyver próbuje rozbroi? bomb? ulokowan? w pobli?u gmachu ONZ. Okazuje si?, ?e zamachowcem jest stary wróg agenta - os?awiony Duch....</desc>
         <category lang="pl">serial akcji</category>
     </programme>
-    <programme start="16:05" stop="17:05" channel="axn">
+    <programme start="20181002160500" stop="20181002170500" channel="axn">
         <title lang="pl">MacGyver (7)</title>
         <desc lang="pl">Dzia?aj?cy incognito Angus ma pomóc w ucieczce z wi?zienia o zaostrzonym rygorze baronowi narkotykowemu, El Noche. Misj? musi wykona? przy...</desc>
         <category lang="pl">serial akcji</category>
     </programme>
-    <programme start="17:05" stop="18:00" channel="axn">
+    <programme start="20181002170500" stop="20181002180000" channel="axn">
         <title lang="pl">Agenci NCIS: Nowy Orlean 3 (14)</title>
         <desc lang="pl">Agent specjalny Gibbs wyznacza McGee i Torresa do kolejnego zadania. Maj? wyruszy? do Nowego Orleanu, by wesprze? Pride'a w operacji...</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="18:00" stop="19:00" channel="axn">
+    <programme start="20181002180000" stop="20181002190000" channel="axn">
         <title lang="pl">Hawaii Five-0 (7)</title>
         <desc lang="pl">W Honolulu dzia?a policyjny zespó? do zada? specjalnych. Dowodzi nim detektyw Steve McGarrett. Cz?onkowie oddzia?u dysponuj? du?? swobod?.</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="19:00" stop="20:00" channel="axn">
+    <programme start="20181002190000" stop="20181002200000" channel="axn">
         <title lang="pl">Hawaii Five-0 (8)</title>
         <desc lang="pl">W Honolulu dzia?a policyjny zespó? do zada? specjalnych. Dowodzi nim detektyw Steve McGarrett. Cz?onkowie oddzia?u dysponuj? du?? swobod?.</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="20:00" stop="21:00" channel="axn">
+    <programme start="20181002200000" stop="20181002210000" channel="axn">
         <title lang="pl">Zabójcze umys?y 12 (15)</title>
         <desc lang="pl">Dwunasty sezon popularnego serialu opowiadaj?cego o elitarnym zespole profilerów FBI. Zajmuj? si? oni analizowaniem najgro?niejszych przest?pców, by nie dopu?ci? do...</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="21:00" stop="22:00" channel="axn">
+    <programme start="20181002210000" stop="20181002220000" channel="axn">
         <title lang="pl">Premiera: Castle 8 (6)</title>
         <desc lang="pl">Nowe przygody pisarza Richarda Castle'a i jego partnerki, Kate Beckett.</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="22:00" stop="23:00" channel="axn">
+    <programme start="20181002220000" stop="20181002230000" channel="axn">
         <title lang="pl">Premiera: MacGyver 2 (20)</title>
         <desc lang="pl">Zespó? wyrusza do Szanghaju. Musi odnale?? zaginione urz?dzenie EMP. Mac i Jack zostaj? uwi?zieni w wie?owcu, gdzie próbuj? uwolni? uprowadzonego...</desc>
         <category lang="pl">serial akcji</category>
     </programme>
-    <programme start="23:00" stop="00:05" channel="axn">
+    <programme start="20181002230000" stop="20181002000500" channel="axn">
         <title lang="pl">Premiera: Breaking Bad 2 (6)</title>
         <desc lang="pl">Nauczyciel chemii dowiaduje si?, ?e pozosta?y mu 2 lata ?ycia. Aby zabezpieczy? przysz?o?? ?ony i syna zaczyna produkowa? metamfetamin?...</desc>
         <category lang="pl">serial obyczajowy</category>
     </programme>
-    <programme start="00:05" stop="01:05" channel="axn">
+    <programme start="20181002000500" stop="20181002010500" channel="axn">
         <title lang="pl">Grimm (20)</title>
         <desc lang="pl">Nick Burkhardt z wydzia?u zabójstw rozwi?zuje zagadki, z których ka?da ma bajkowe powi?zania, ale nie wszystkie ko?cz? si? szcz??liwie.</desc>
         <category lang="pl">serial fantasy</category>
     </programme>
-    <programme start="01:05" stop="03:05" channel="axn">
+    <programme start="20181002010500" stop="20181002030500" channel="axn">
         <title lang="pl">S.W.A.T. Jednostka specjalna</title>
         <desc lang="pl">Grupa policjantów eskortuje gro?nego bandyt?.</desc>
         <category lang="pl">film sensacyjny, USA 2003</category>
     </programme>
-    <programme start="03:05" stop="03:45" channel="axn">
+    <programme start="20181002030500" stop="20181002034500" channel="axn">
         <title lang="pl">MacGyver 2 (20)</title>
         <desc lang="pl">Zespó? wyrusza do Szanghaju. Musi odnale?? zaginione urz?dzenie EMP. Mac i Jack zostaj? uwi?zieni w wie?owcu, gdzie próbuj? uwolni? uprowadzonego...</desc>
         <category lang="pl">serial akcji</category>
     </programme>
-    <programme start="03:45" stop="06:05" channel="axn">
+    <programme start="20181002034500" stop="20181003060500" channel="axn">
         <title lang="pl">Blok promocyjny AXN</title>
     </programme>
-    <programme start="06:05" stop="07:05" channel="axn">
+    <programme start="20181003060500" stop="20181003070500" channel="axn">
         <title lang="pl">Detektyw Monk 2 (3)</title>
         <desc lang="pl">Cierpi?cy na nerwic? natr?ctw detektyw Adrian Monk prowadzi kolejne ?ledztwo.</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="07:05" stop="08:05" channel="axn">
+    <programme start="20181003070500" stop="20181003080500" channel="axn">
         <title lang="pl">Detektyw Monk 2 (4)</title>
         <desc lang="pl">Cierpi?cy na nerwic? natr?ctw detektyw Adrian Monk prowadzi kolejne ?ledztwo.</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="08:05" stop="09:00" channel="axn">
+    <programme start="20181003080500" stop="20181003090000" channel="axn">
         <title lang="pl">Agenci NCIS: Nowy Orlean 3 (14)</title>
         <desc lang="pl">Agent specjalny Gibbs wyznacza McGee i Torresa do kolejnego zadania. Maj? wyruszy? do Nowego Orleanu, by wesprze? Pride'a w operacji...</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="09:00" stop="10:00" channel="axn">
+    <programme start="20181003090000" stop="20181003100000" channel="axn">
         <title lang="pl">Rewir (15)</title>
         <desc lang="pl">Kulisy pracy stró?ów prawa z Wroc?awia. Kamera towarzyszy dwóm policyjnym patrolom w czasie ich codziennych interwencji. To oni jako pierwsi...</desc>
         <category lang="pl">serial fabularno-dokumentalny</category>
     </programme>
-    <programme start="10:00" stop="11:00" channel="axn">
+    <programme start="20181003100000" stop="20181003110000" channel="axn">
         <title lang="pl">MacGyver (7)</title>
         <desc lang="pl">Dzia?aj?cy incognito Angus ma pomóc w ucieczce z wi?zienia o zaostrzonym rygorze baronowi narkotykowemu, El Noche. Misj? musi wykona? przy...</desc>
         <category lang="pl">serial akcji</category>
     </programme>
-    <programme start="11:00" stop="12:00" channel="axn">
+    <programme start="20181003110000" stop="20181003120000" channel="axn">
         <title lang="pl">Detektyw Monk 2 (5)</title>
         <desc lang="pl">Cierpi?cy na nerwic? natr?ctw detektyw Adrian Monk prowadzi kolejne ?ledztwo.</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="12:00" stop="13:00" channel="axn">
+    <programme start="20181003120000" stop="20181003130000" channel="axn">
         <title lang="pl">Detektyw Monk 2 (6)</title>
         <desc lang="pl">Cierpi?cy na nerwic? natr?ctw detektyw Adrian Monk prowadzi kolejne ?ledztwo.</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="13:00" stop="14:00" channel="axn">
+    <programme start="20181003130000" stop="20181003140000" channel="axn">
         <title lang="pl">Hawaii Five-0 (8)</title>
         <desc lang="pl">W Honolulu dzia?a policyjny zespó? do zada? specjalnych. Dowodzi nim detektyw Steve McGarrett. Cz?onkowie oddzia?u dysponuj? du?? swobod?.</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="14:00" stop="15:00" channel="axn">
+    <programme start="20181003140000" stop="20181003150000" channel="axn">
         <title lang="pl">Rewir (15)</title>
         <desc lang="pl">Kulisy pracy stró?ów prawa z Wroc?awia. Kamera towarzyszy dwóm policyjnym patrolom w czasie ich codziennych interwencji. To oni jako pierwsi...</desc>
         <category lang="pl">serial fabularno-dokumentalny</category>
     </programme>
-    <programme start="15:00" stop="16:00" channel="axn">
+    <programme start="20181003150000" stop="20181003160000" channel="axn">
         <title lang="pl">MacGyver (7)</title>
         <desc lang="pl">Dzia?aj?cy incognito Angus ma pomóc w ucieczce z wi?zienia o zaostrzonym rygorze baronowi narkotykowemu, El Noche. Misj? musi wykona? przy...</desc>
         <category lang="pl">serial akcji</category>
     </programme>
-    <programme start="16:00" stop="17:00" channel="axn">
+    <programme start="20181003160000" stop="20181003170000" channel="axn">
         <title lang="pl">MacGyver (8)</title>
         <desc lang="pl">Murdock, gro?ny mi?dzynarodowy przest?pca, ma zabi? MacGyvera. Geniusz musi obroni? siebie i Bozera, pos?uguj?c si? jedynie korkoci?giem oraz r?cznikami papierowymi.</desc>
         <category lang="pl">serial akcji</category>
     </programme>
-    <programme start="17:00" stop="18:00" channel="axn">
+    <programme start="20181003170000" stop="20181003180000" channel="axn">
         <title lang="pl">Agenci NCIS: Nowy Orlean 3 (15)</title>
         <desc lang="pl">Zamordowano bosmana. Loretta obawia si?, ?e zabójc? mo?e by? cz?owiek, który trafi? 20 lat temu do wi?zienia i teraz wyszed?...</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="18:00" stop="19:00" channel="axn">
+    <programme start="20181003180000" stop="20181003190000" channel="axn">
         <title lang="pl">Hawaii Five-0 (8)</title>
         <desc lang="pl">W Honolulu dzia?a policyjny zespó? do zada? specjalnych. Dowodzi nim detektyw Steve McGarrett. Cz?onkowie oddzia?u dysponuj? du?? swobod?.</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="19:00" stop="20:00" channel="axn">
+    <programme start="20181003190000" stop="20181003200000" channel="axn">
         <title lang="pl">Hawaii Five-0 (9)</title>
         <desc lang="pl">W Honolulu dzia?a policyjny zespó? do zada? specjalnych. Dowodzi nim detektyw Steve McGarrett. Cz?onkowie oddzia?u dysponuj? du?? swobod?.</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="20:00" stop="21:00" channel="axn">
+    <programme start="20181003200000" stop="20181003210000" channel="axn">
         <title lang="pl">Zabójcze umys?y 12 (16)</title>
         <desc lang="pl">Dwunasty sezon popularnego serialu opowiadaj?cego o elitarnym zespole profilerów FBI. Zajmuj? si? oni analizowaniem najgro?niejszych przest?pców, by nie dopu?ci? do...</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="21:00" stop="23:45" channel="axn">
+    <programme start="20181003210000" stop="20181003234500" channel="axn">
         <title lang="pl">Spider-Man 3</title>
         <desc lang="pl">Zmiana osobowo?ci superbohatera staje si? dla niego gro?na.</desc>
         <category lang="pl">film przygodowy, USA 2007</category>
     </programme>
-    <programme start="23:45" stop="00:45" channel="axn">
+    <programme start="20181003234500" stop="20181003004500" channel="axn">
         <title lang="pl">Podró?nicy (4)</title>
         <desc lang="pl">MacLaren i Forbes obserwuj? nielegaln? transakcj?, która przeradza si? w strzelanin?. Spiesz? z pomoc? ocala?ym podró?nikom. Towarzysze Halla, Carter i...</desc>
         <category lang="pl">serial SF</category>
     </programme>
-    <programme start="00:45" stop="01:45" channel="axn">
+    <programme start="20181003004500" stop="20181003014500" channel="axn">
         <title lang="pl">S.W.A.T. (1/22)</title>
         <desc lang="pl">Porucznik Daniel 'Hondo' Harrelson zostaje mianowany dowódc? elitarnej jednostki bojowej w Los Angeles. Próbuje wpoi? podw?adnym swoj? zasad?, zgodnie z...</desc>
         <category lang="pl">serial sensacyjny</category>
     </programme>
-    <programme start="01:45" stop="02:30" channel="axn">
+    <programme start="20181003014500" stop="20181003023000" channel="axn">
         <title lang="pl">MacGyver 2 (20)</title>
         <desc lang="pl">Zespó? wyrusza do Szanghaju. Musi odnale?? zaginione urz?dzenie EMP. Mac i Jack zostaj? uwi?zieni w wie?owcu, gdzie próbuj? uwolni? uprowadzonego...</desc>
         <category lang="pl">serial akcji</category>
     </programme>
-    <programme start="02:30" stop="03:15" channel="axn">
+    <programme start="20181003023000" stop="20181003031500" channel="axn">
         <title lang="pl">Castle 8 (6)</title>
         <desc lang="pl">Nowe przygody pisarza Richarda Castle'a i jego partnerki, Kate Beckett.</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="03:15" stop="04:00" channel="axn">
+    <programme start="20181003031500" stop="20181003040000" channel="axn">
         <title lang="pl">Agenci NCIS: Nowy Orlean 3 (15)</title>
         <desc lang="pl">Zamordowano bosmana. Loretta obawia si?, ?e zabójc? mo?e by? cz?owiek, który trafi? 20 lat temu do wi?zienia i teraz wyszed?...</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="04:00" stop="06:05" channel="axn">
+    <programme start="20181003040000" stop="20181004060500" channel="axn">
         <title lang="pl">Blok promocyjny AXN</title>
     </programme>
-    <programme start="06:05" stop="07:05" channel="axn">
+    <programme start="20181004060500" stop="20181004070500" channel="axn">
         <title lang="pl">Detektyw Monk 2 (5)</title>
         <desc lang="pl">Cierpi?cy na nerwic? natr?ctw detektyw Adrian Monk prowadzi kolejne ?ledztwo.</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="07:05" stop="08:05" channel="axn">
+    <programme start="20181004070500" stop="20181004080500" channel="axn">
         <title lang="pl">Detektyw Monk 2 (6)</title>
         <desc lang="pl">Cierpi?cy na nerwic? natr?ctw detektyw Adrian Monk prowadzi kolejne ?ledztwo.</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="08:05" stop="09:05" channel="axn">
+    <programme start="20181004080500" stop="20181004090500" channel="axn">
         <title lang="pl">Agenci NCIS: Nowy Orlean 3 (15)</title>
         <desc lang="pl">Zamordowano bosmana. Loretta obawia si?, ?e zabójc? mo?e by? cz?owiek, który trafi? 20 lat temu do wi?zienia i teraz wyszed?...</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="09:05" stop="10:00" channel="axn">
+    <programme start="20181004090500" stop="20181004100000" channel="axn">
         <title lang="pl">Rewir (16)</title>
         <desc lang="pl">Kulisy pracy stró?ów prawa z Wroc?awia. Kamera towarzyszy dwóm policyjnym patrolom w czasie ich codziennych interwencji. To oni jako pierwsi...</desc>
         <category lang="pl">serial fabularno-dokumentalny</category>
     </programme>
-    <programme start="10:00" stop="11:00" channel="axn">
+    <programme start="20181004100000" stop="20181004110000" channel="axn">
         <title lang="pl">MacGyver (8)</title>
         <desc lang="pl">Murdock, gro?ny mi?dzynarodowy przest?pca, ma zabi? MacGyvera. Geniusz musi obroni? siebie i Bozera, pos?uguj?c si? jedynie korkoci?giem oraz r?cznikami papierowymi.</desc>
         <category lang="pl">serial akcji</category>
     </programme>
-    <programme start="11:00" stop="12:00" channel="axn">
+    <programme start="20181004110000" stop="20181004120000" channel="axn">
         <title lang="pl">Detektyw Monk 2 (7)</title>
         <desc lang="pl">Cierpi?cy na nerwic? natr?ctw detektyw Adrian Monk prowadzi kolejne ?ledztwo.</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="12:00" stop="13:00" channel="axn">
+    <programme start="20181004120000" stop="20181004130000" channel="axn">
         <title lang="pl">Detektyw Monk 2 (8)</title>
         <desc lang="pl">Cierpi?cy na nerwic? natr?ctw detektyw Adrian Monk prowadzi kolejne ?ledztwo.</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="13:00" stop="14:00" channel="axn">
+    <programme start="20181004130000" stop="20181004140000" channel="axn">
         <title lang="pl">Hawaii Five-0 (9)</title>
         <desc lang="pl">W Honolulu dzia?a policyjny zespó? do zada? specjalnych. Dowodzi nim detektyw Steve McGarrett. Cz?onkowie oddzia?u dysponuj? du?? swobod?.</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="14:00" stop="15:00" channel="axn">
+    <programme start="20181004140000" stop="20181004150000" channel="axn">
         <title lang="pl">Rewir (16)</title>
         <desc lang="pl">Kulisy pracy stró?ów prawa z Wroc?awia. Kamera towarzyszy dwóm policyjnym patrolom w czasie ich codziennych interwencji. To oni jako pierwsi...</desc>
         <category lang="pl">serial fabularno-dokumentalny</category>
     </programme>
-    <programme start="15:00" stop="16:00" channel="axn">
+    <programme start="20181004150000" stop="20181004160000" channel="axn">
         <title lang="pl">MacGyver (8)</title>
         <desc lang="pl">Murdock, gro?ny mi?dzynarodowy przest?pca, ma zabi? MacGyvera. Geniusz musi obroni? siebie i Bozera, pos?uguj?c si? jedynie korkoci?giem oraz r?cznikami papierowymi.</desc>
         <category lang="pl">serial akcji</category>
     </programme>
-    <programme start="16:00" stop="17:00" channel="axn">
+    <programme start="20181004160000" stop="20181004170000" channel="axn">
         <title lang="pl">MacGyver (9)</title>
         <desc lang="pl">?otwa. MacGyver wraz ze swoimi wspó?pracownikami musi ochroni? dyplomatów z ameryka?skiej ambasady przed atakiem ekstremistów. Angus jednak ma dyspozycji tylko...</desc>
         <category lang="pl">serial akcji</category>
     </programme>
-    <programme start="17:00" stop="18:00" channel="axn">
+    <programme start="20181004170000" stop="20181004180000" channel="axn">
         <title lang="pl">Agenci NCIS: Nowy Orlean 3 (16)</title>
         <desc lang="pl">Pride pomaga przyjació?ce, prokurator wojskowej Ricie Devereaux, w rozwik?aniu sprawy znikni?cia prawnika JAG. Poszukiwany zg?osi? si? na ochotnika na zaj?cia...</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="18:00" stop="19:00" channel="axn">
+    <programme start="20181004180000" stop="20181004190000" channel="axn">
         <title lang="pl">Hawaii Five-0 (9)</title>
         <desc lang="pl">W Honolulu dzia?a policyjny zespó? do zada? specjalnych. Dowodzi nim detektyw Steve McGarrett. Cz?onkowie oddzia?u dysponuj? du?? swobod?.</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="19:00" stop="20:00" channel="axn">
+    <programme start="20181004190000" stop="20181004200000" channel="axn">
         <title lang="pl">Hawaii Five-0 (10)</title>
         <desc lang="pl">W Honolulu dzia?a policyjny zespó? do zada? specjalnych. Dowodzi nim detektyw Steve McGarrett. Cz?onkowie oddzia?u dysponuj? du?? swobod?.</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="20:00" stop="21:00" channel="axn">
+    <programme start="20181004200000" stop="20181004210000" channel="axn">
         <title lang="pl">Zabójcze umys?y 12 (17)</title>
         <desc lang="pl">Dwunasty sezon popularnego serialu opowiadaj?cego o elitarnym zespole profilerów FBI. Zajmuj? si? oni analizowaniem najgro?niejszych przest?pców, by nie dopu?ci? do...</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="21:00" stop="22:00" channel="axn">
+    <programme start="20181004210000" stop="20181004220000" channel="axn">
         <title lang="pl">Agenci NCIS 12 (5)</title>
         <desc lang="pl">W trakcie ?wicze? z agentem specjalnym CGIS Abigail Borin- Gibbs zauwa?a cz?owieka za burt?. Próbuj?c mu pomóc, dociera na pok?ad...</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="22:00" stop="23:00" channel="axn">
+    <programme start="20181004220000" stop="20181004230000" channel="axn">
         <title lang="pl">Agenci NCIS: Nowy Orlean 4 (19)</title>
         <desc lang="pl">Agenci NCIS z Nowego Orleanu powracaj? w czwartym sezonie tego hitowego serialu. Znów podejm? si? rozwi?zywania zawi?ych spraw kryminalnych w...</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="23:00" stop="00:00" channel="axn">
+    <programme start="20181004230000" stop="20181004000000" channel="axn">
         <title lang="pl">Agenci NCIS: Nowy Orlean 4 (20)</title>
         <desc lang="pl">Agenci NCIS z Nowego Orleanu powracaj? w czwartym sezonie tego hitowego serialu. Znów podejm? si? rozwi?zywania zawi?ych spraw kryminalnych w...</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="00:00" stop="01:00" channel="axn">
+    <programme start="20181004000000" stop="20181004010000" channel="axn">
         <title lang="pl">Agenci NCIS: Los Angeles 8 (5)</title>
         <desc lang="pl">W nieznanych okoliczno?ciach ginie maszynista marynarki wojennej. To zmusza ekip? do wyt??onej pracy w zwi?zku z brakiem jakichkolwiek dowodów w...</desc>
         <category lang="pl">serial sensacyjny</category>
     </programme>
-    <programme start="01:00" stop="02:00" channel="axn">
+    <programme start="20181004010000" stop="20181004020000" channel="axn">
         <title lang="pl">Podró?nicy (4)</title>
         <desc lang="pl">MacLaren i Forbes obserwuj? nielegaln? transakcj?, która przeradza si? w strzelanin?. Spiesz? z pomoc? ocala?ym podró?nikom. Towarzysze Halla, Carter i...</desc>
         <category lang="pl">serial SF</category>
     </programme>
-    <programme start="02:00" stop="02:40" channel="axn">
+    <programme start="20181004020000" stop="20181004024000" channel="axn">
         <title lang="pl">Agenci NCIS 12 (5)</title>
         <desc lang="pl">W trakcie ?wicze? z agentem specjalnym CGIS Abigail Borin- Gibbs zauwa?a cz?owieka za burt?. Próbuj?c mu pomóc, dociera na pok?ad...</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="02:40" stop="03:25" channel="axn">
+    <programme start="20181004024000" stop="20181004032500" channel="axn">
         <title lang="pl">Agenci NCIS: Los Angeles 8 (5)</title>
         <desc lang="pl">W nieznanych okoliczno?ciach ginie maszynista marynarki wojennej. To zmusza ekip? do wyt??onej pracy w zwi?zku z brakiem jakichkolwiek dowodów w...</desc>
         <category lang="pl">serial sensacyjny</category>
     </programme>
-    <programme start="03:25" stop="06:10" channel="axn">
+    <programme start="20181004032500" stop="20181005061000" channel="axn">
         <title lang="pl">Blok promocyjny AXN</title>
     </programme>
-    <programme start="06:10" stop="07:10" channel="axn">
+    <programme start="20181005061000" stop="20181005071000" channel="axn">
         <title lang="pl">Detektyw Monk 2 (7)</title>
         <desc lang="pl">Cierpi?cy na nerwic? natr?ctw detektyw Adrian Monk prowadzi kolejne ?ledztwo.</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="07:10" stop="08:10" channel="axn">
+    <programme start="20181005071000" stop="20181005081000" channel="axn">
         <title lang="pl">Detektyw Monk 2 (8)</title>
         <desc lang="pl">Cierpi?cy na nerwic? natr?ctw detektyw Adrian Monk prowadzi kolejne ?ledztwo.</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="08:10" stop="09:05" channel="axn">
+    <programme start="20181005081000" stop="20181005090500" channel="axn">
         <title lang="pl">Agenci NCIS: Nowy Orlean 3 (16)</title>
         <desc lang="pl">Pride pomaga przyjació?ce, prokurator wojskowej Ricie Devereaux, w rozwik?aniu sprawy znikni?cia prawnika JAG. Poszukiwany zg?osi? si? na ochotnika na zaj?cia...</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="09:05" stop="10:05" channel="axn">
+    <programme start="20181005090500" stop="20181005100500" channel="axn">
         <title lang="pl">Rewir (17)</title>
         <desc lang="pl">Kulisy pracy stró?ów prawa z Wroc?awia. Kamera towarzyszy dwóm policyjnym patrolom w czasie ich codziennych interwencji. To oni jako pierwsi...</desc>
         <category lang="pl">serial fabularno-dokumentalny</category>
     </programme>
-    <programme start="10:05" stop="11:00" channel="axn">
+    <programme start="20181005100500" stop="20181005110000" channel="axn">
         <title lang="pl">MacGyver (9)</title>
         <desc lang="pl">?otwa. MacGyver wraz ze swoimi wspó?pracownikami musi ochroni? dyplomatów z ameryka?skiej ambasady przed atakiem ekstremistów. Angus jednak ma dyspozycji tylko...</desc>
         <category lang="pl">serial akcji</category>
     </programme>
-    <programme start="11:00" stop="12:00" channel="axn">
+    <programme start="20181005110000" stop="20181005120000" channel="axn">
         <title lang="pl">Detektyw Monk 2 (9)</title>
         <desc lang="pl">Cierpi?cy na nerwic? natr?ctw detektyw Adrian Monk prowadzi kolejne ?ledztwo.</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="12:00" stop="13:00" channel="axn">
+    <programme start="20181005120000" stop="20181005130000" channel="axn">
         <title lang="pl">Detektyw Monk 2 (10)</title>
         <desc lang="pl">Cierpi?cy na nerwic? natr?ctw detektyw Adrian Monk prowadzi kolejne ?ledztwo.</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="13:00" stop="14:00" channel="axn">
+    <programme start="20181005130000" stop="20181005140000" channel="axn">
         <title lang="pl">Hawaii Five-0 (10)</title>
         <desc lang="pl">W Honolulu dzia?a policyjny zespó? do zada? specjalnych. Dowodzi nim detektyw Steve McGarrett. Cz?onkowie oddzia?u dysponuj? du?? swobod?.</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="14:00" stop="15:00" channel="axn">
+    <programme start="20181005140000" stop="20181005150000" channel="axn">
         <title lang="pl">Rewir (17)</title>
         <desc lang="pl">Kulisy pracy stró?ów prawa z Wroc?awia. Kamera towarzyszy dwóm policyjnym patrolom w czasie ich codziennych interwencji. To oni jako pierwsi...</desc>
         <category lang="pl">serial fabularno-dokumentalny</category>
     </programme>
-    <programme start="15:00" stop="16:00" channel="axn">
+    <programme start="20181005150000" stop="20181005160000" channel="axn">
         <title lang="pl">MacGyver (9)</title>
         <desc lang="pl">?otwa. MacGyver wraz ze swoimi wspó?pracownikami musi ochroni? dyplomatów z ameryka?skiej ambasady przed atakiem ekstremistów. Angus jednak ma dyspozycji tylko...</desc>
         <category lang="pl">serial akcji</category>
     </programme>
-    <programme start="16:00" stop="17:00" channel="axn">
+    <programme start="20181005160000" stop="20181005170000" channel="axn">
         <title lang="pl">MacGyver (10)</title>
         <desc lang="pl">Mac zgadza si? wróci? z Wiltem do rodzinnego miasteczka. Na miejscu musz? zmierzy? si? z porywaczami studentki. Dziewczyna jest dla...</desc>
         <category lang="pl">serial akcji</category>
     </programme>
-    <programme start="17:00" stop="18:00" channel="axn">
+    <programme start="20181005170000" stop="20181005180000" channel="axn">
         <title lang="pl">Agenci NCIS: Nowy Orlean 3 (17)</title>
         <desc lang="pl">Ekipa Pride'a uczestniczy w ob?awie na wykwalifikowanego ?o?nierza marynarki wojennej. M??czyzna dot?d nie mia? ?adnego zatargu z prawem. Niespodziewanie w...</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="18:00" stop="19:00" channel="axn">
+    <programme start="20181005180000" stop="20181005190000" channel="axn">
         <title lang="pl">Hawaii 5.0 (10)</title>
         <desc lang="pl">W Honolulu dzia?a policyjny zespó? do zada? specjalnych. Dowodzi nim detektyw Steve McGarrett. Cz?onkowie oddzia?u dysponuj? du?? swobod?.</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="19:00" stop="20:00" channel="axn">
+    <programme start="20181005190000" stop="20181005200000" channel="axn">
         <title lang="pl">Hawaii 5.0 (11)</title>
         <desc lang="pl">W Honolulu dzia?a policyjny zespó? do zada? specjalnych. Dowodzi nim detektyw Steve McGarrett. Cz?onkowie oddzia?u dysponuj? du?? swobod?.</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="20:00" stop="22:25" channel="axn">
+    <programme start="20181005200000" stop="20181005222500" channel="axn">
         <title lang="pl">Spider-Man</title>
         <desc lang="pl">Nastoletni superbohater staje do walki ze z?em.</desc>
         <category lang="pl">film przygodowy, USA 2002</category>
     </programme>
-    <programme start="22:25" stop="00:55" channel="axn">
+    <programme start="20181005222500" stop="20181005005500" channel="axn">
         <title lang="pl">Spider-Man 2</title>
         <desc lang="pl">Superbohater staje tym razem do walki z Doktorem Octopusem.</desc>
         <category lang="pl">film przygodowy, USA 2004</category>
     </programme>
-    <programme start="00:55" stop="01:55" channel="axn">
+    <programme start="20181005005500" stop="20181005015500" channel="axn">
         <title lang="pl">Flash 4 (22)</title>
         <desc lang="pl">W 4. sezonie popularnego serialu Barry Allen, jako obdarzony nadludzk? pr?dko?ci? superbohater Flash, znów zmierzy si? z hord? z?oczy?ców. Na...</desc>
         <category lang="pl">serial akcji</category>
     </programme>
-    <programme start="01:55" stop="02:40" channel="axn">
+    <programme start="20181005015500" stop="20181005024000" channel="axn">
         <title lang="pl">Agenci NCIS: Los Angeles 8 (5)</title>
         <desc lang="pl">W nieznanych okoliczno?ciach ginie maszynista marynarki wojennej. To zmusza ekip? do wyt??onej pracy w zwi?zku z brakiem jakichkolwiek dowodów w...</desc>
         <category lang="pl">serial sensacyjny</category>
     </programme>
-    <programme start="02:40" stop="03:15" channel="axn">
+    <programme start="20181005024000" stop="20181005031500" channel="axn">
         <title lang="pl">Agenci NCIS 12 (5)</title>
         <desc lang="pl">W trakcie ?wicze? z agentem specjalnym CGIS Abigail Borin- Gibbs zauwa?a cz?owieka za burt?. Próbuj?c mu pomóc, dociera na pok?ad...</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="03:15" stop="04:00" channel="axn">
+    <programme start="20181005031500" stop="20181005040000" channel="axn">
         <title lang="pl">Agenci NCIS: Nowy Orlean 4 (19)</title>
         <desc lang="pl">Agenci NCIS z Nowego Orleanu powracaj? w czwartym sezonie tego hitowego serialu. Znów podejm? si? rozwi?zywania zawi?ych spraw kryminalnych w...</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="04:00" channel="axn">
+    <programme start="20181005040000" channel="axn">
         <title lang="pl">Blok promocyjny AXN</title>
     </programme>
 </tv>
