@@ -8,7 +8,7 @@
         <display-name>ale kino+</display-name>
     </channel>
     <channel id="AMC">
-        <display-name>AMC</display-name>
+        <display-name>AMC HD</display-name>
     </channel>
     <channel id="Animal Planet">
         <display-name>Animal Planet</display-name>
@@ -20,25 +20,25 @@
         <display-name>AXN</display-name>
     </channel>
     <channel id="AXN Black">
-        <display-name>AXN Black</display-name>
+        <display-name>AXN BLACK</display-name>
     </channel>
     <channel id="AXN Spin">
         <display-name>AXN Spin HD</display-name>
     </channel>
     <channel id="AXN White">
-        <display-name>AXN White</display-name>
+        <display-name>AXN WHITE</display-name>
     </channel>
     <channel id="BBC Brit">
-        <display-name>BBC Brit</display-name>
+        <display-name>BBC Brit HD</display-name>
     </channel>
     <channel id="BBC Earth">
-        <display-name>BBC Earth</display-name>
+        <display-name>BBC Earth HD</display-name>
     </channel>
     <channel id="BBC HD">
         <display-name>BBC HD</display-name>
     </channel>
     <channel id="BBC Lifestyle">
-        <display-name>BBC Lifestyle</display-name>
+        <display-name>BBC Lifestyle HD</display-name>
     </channel>
     <channel id="Boomerang">
         <display-name>Boomerang</display-name>
@@ -68,16 +68,16 @@
         <display-name>CANAL+ Sport 2</display-name>
     </channel>
     <channel id="Cartoon Network">
-        <display-name>Cartoon Network</display-name>
+        <display-name>Cartoon Network HD</display-name>
     </channel>
     <channel id="CBS Action">
-        <display-name>CBS Action</display-name>
+        <display-name>CBS action</display-name>
     </channel>
     <channel id="CBS Europa">
-        <display-name>CBS Europa</display-name>
+        <display-name>CBS europa</display-name>
     </channel>
     <channel id="CBS Reality">
-        <display-name>CBS Reality</display-name>
+        <display-name>CBS reality</display-name>
     </channel>
     <channel id="CI Polsat">
         <display-name>CI Polsat</display-name>
@@ -92,7 +92,7 @@
         <display-name>Comedy Central</display-name>
     </channel>
     <channel id="Comedy Central Fam.">
-        <display-name>Comedy Central Fam.</display-name>
+        <display-name>Comedy Central Family</display-name>
     </channel>
     <channel id="Discovery Channel">
         <display-name>Discovery Channel</display-name>
@@ -101,7 +101,7 @@
         <display-name>Discovery Historia</display-name>
     </channel>
     <channel id="Discovery Life">
-        <display-name>Discovery Life</display-name>
+        <display-name>Discovery life</display-name>
     </channel>
     <channel id="Discovery Science">
         <display-name>Discovery Science</display-name>
@@ -136,11 +136,11 @@
     <channel id="Epic Drama">
         <display-name>Epic Drama</display-name>
     </channel>
-    <channel id="Eurosport 1">
-        <display-name>Eurosport 1</display-name>
+    <channel id="Eurosport 1 HD">
+        <display-name>Eurosport 1 HD</display-name>
     </channel>
-    <channel id="Eurosport 2">
-        <display-name>Eurosport 2</display-name>
+    <channel id="Eurosport 2 HD">
+        <display-name>Eurosport 2 HD</display-name>
     </channel>
     <channel id="Extreme">
         <display-name>Extreme</display-name>
@@ -167,10 +167,10 @@
         <display-name>Food Network</display-name>
     </channel>
     <channel id="FOX">
-        <display-name>FOX</display-name>
+        <display-name>Fox</display-name>
     </channel>
     <channel id="FOX Comedy">
-        <display-name>FOX Comedy</display-name>
+        <display-name>Fox Comedy HD</display-name>
     </channel>
     <channel id="H2">
         <display-name>H2</display-name>
@@ -188,7 +188,7 @@
         <display-name>HGTV</display-name>
     </channel>
     <channel id="HISTORY">
-        <display-name>HISTORY</display-name>
+        <display-name>History</display-name>
     </channel>
     <channel id="ID">
         <display-name>ID</display-name>
@@ -203,7 +203,7 @@
         <display-name>Kuchnia+</display-name>
     </channel>
     <channel id="Metro TV">
-        <display-name>Metro TV</display-name>
+        <display-name>Metro</display-name>
     </channel>
     <channel id="Mezzo">
         <display-name>Mezzo</display-name>
@@ -215,13 +215,13 @@
         <display-name>MTV Polska</display-name>
     </channel>
     <channel id="Nat Geo People">
-        <display-name>Nat Geo People</display-name>
+        <display-name>Nat Geo People HD</display-name>
     </channel>
     <channel id="Nat Geo Wild">
-        <display-name>Nat Geo Wild</display-name>
+        <display-name>Nat Geo WILD HD</display-name>
     </channel>
     <channel id="National Geo.">
-        <display-name>National Geo.</display-name>
+        <display-name>National Geographic</display-name>
     </channel>
     <channel id="Nickelodeon">
         <display-name>Nickelodeon</display-name>
@@ -236,7 +236,7 @@
         <display-name>nSport+</display-name>
     </channel>
     <channel id="Paramount Channel">
-        <display-name>Paramount Channel</display-name>
+        <display-name>Paramount Channel HD</display-name>
     </channel>
     <channel id="PLANETE+">
         <display-name>PLANETE+</display-name>
@@ -254,7 +254,7 @@
         <display-name>Polsat Cafe</display-name>
     </channel>
     <channel id="Polsat Doku">
-        <display-name>Polsat Doku</display-name>
+        <display-name>Polsat Doku HD</display-name>
     </channel>
     <channel id="Polsat Film">
         <display-name>Polsat Film</display-name>
@@ -263,7 +263,7 @@
         <display-name>Polsat News</display-name>
     </channel>
     <channel id="Polsat Play">
-        <display-name>Polsat Play</display-name>
+        <display-name>Polsat Play HD</display-name>
     </channel>
     <channel id="Polsat Romans">
         <display-name>Polsat Romans</display-name>
@@ -272,10 +272,10 @@
         <display-name>Polsat Sport</display-name>
     </channel>
     <channel id="Polsat Sport Extra">
-        <display-name>Polsat Sport Extra</display-name>
+        <display-name>Polsat Sport Extra HD</display-name>
     </channel>
     <channel id="Polsat Sport News">
-        <display-name>Polsat Sport News</display-name>
+        <display-name>Polsat Sport News HD</display-name>
     </channel>
     <channel id="Polsat Sport Premium 1">
         <display-name>Polsat Sport Premium 1</display-name>
@@ -284,16 +284,16 @@
         <display-name>Polsat Sport Premium 2</display-name>
     </channel>
     <channel id="Polsat Viasat Expl.">
-        <display-name>Polsat Viasat Expl.</display-name>
+        <display-name>Polsat Viasat Explore</display-name>
     </channel>
     <channel id="Polsat Viasat Hist.">
-        <display-name>Polsat Viasat Hist.</display-name>
+        <display-name>Polsat Viasat History</display-name>
     </channel>
     <channel id="Polsat Viasat Nature">
         <display-name>Polsat Viasat Nature</display-name>
     </channel>
     <channel id="Romance TV">
-        <display-name>Romance TV</display-name>
+        <display-name>Romance TV HD</display-name>
     </channel>
     <channel id="SCI FI">
         <display-name>SCI FI</display-name>
@@ -302,10 +302,10 @@
         <display-name>SportKlub</display-name>
     </channel>
     <channel id="Stopklatka TV">
-        <display-name>Stopklatka TV</display-name>
+        <display-name>stopklatka tv</display-name>
     </channel>
     <channel id="Sundance TV">
-        <display-name>Sundance TV</display-name>
+        <display-name>Sundance TV HD</display-name>
     </channel>
     <channel id="Super Polsat">
         <display-name>Super Polsat</display-name>
@@ -317,7 +317,7 @@
         <display-name>Tele 5</display-name>
     </channel>
     <channel id="TLC">
-        <display-name>TLC</display-name>
+        <display-name>TLC HD</display-name>
     </channel>
     <channel id="TNT">
         <display-name>TNT</display-name>
@@ -367,11 +367,11 @@
     <channel id="TVN24 BiS">
         <display-name>TVN24 BiS</display-name>
     </channel>
-    <channel id="TVP 1">
-        <display-name>TVP 1</display-name>
+    <channel id="TVP1 HD">
+        <display-name>TVP1 HD</display-name>
     </channel>
-    <channel id="TVP 2">
-        <display-name>TVP 2</display-name>
+    <channel id="TVP2 HD">
+        <display-name>TVP2 HD</display-name>
     </channel>
     <channel id="TVP ABC">
         <display-name>TVP ABC</display-name>
@@ -397,8 +397,8 @@
     <channel id="TVP Seriale">
         <display-name>TVP Seriale</display-name>
     </channel>
-    <channel id="TVP Sport">
-        <display-name>TVP Sport</display-name>
+    <channel id="TVP Sport HD">
+        <display-name>TVP Sport HD</display-name>
     </channel>
     <channel id="TVS">
         <display-name>TVS</display-name>
@@ -6910,206 +6910,206 @@
         <desc lang="pl">Tenisistka Belinda Roswell zostaje zamordowana. Wkrótce ginie kolejna mistrzyni kortu. Mnożą się pytania dotyczące tych zagadkowych zbrodni. W śledztwo angażuje...</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="20181002070000 +0000" stop="20181002083000 +0000" channel="Eurosport 1">
+    <programme start="20181002070000 +0000" stop="20181002083000 +0000" channel="Eurosport 1 HD">
         <title lang="pl">Piłka nożna: MLS</title>
         <category lang="pl">mecz: Chicago Fire - Los Angeles FC</category>
     </programme>
-    <programme start="20181002083000 +0000" stop="20181002100000 +0000" channel="Eurosport 1">
+    <programme start="20181002083000 +0000" stop="20181002100000 +0000" channel="Eurosport 1 HD">
         <title lang="pl">Snooker: Turniej European Masters</title>
         <category lang="pl">1. dzień</category>
     </programme>
-    <programme start="20181002100000 +0000" stop="20181002110000 +0000" channel="Eurosport 1">
+    <programme start="20181002100000 +0000" stop="20181002110000 +0000" channel="Eurosport 1 HD">
         <title lang="pl">Piłka nożna: MLS</title>
         <category lang="pl">mecz: Chicago Fire - Los Angeles FC</category>
     </programme>
-    <programme start="20181002110000 +0000" stop="20181002113000 +0000" channel="Eurosport 1">
+    <programme start="20181002110000 +0000" stop="20181002113000 +0000" channel="Eurosport 1 HD">
         <title lang="pl">Wyścigi samochodowe: FIA World Touring Car Cup w Ningbo</title>
         <desc lang="pl">Siódma runda sezonu FIA WTCC. Kierowcy przybywają na tor Ningbo International Circuit, aby rywalizować o kolejne punkty w klasyfikacji. Faworytem...</desc>
         <category lang="pl">wyścigi samochodowe</category>
     </programme>
-    <programme start="20181002113000 +0000" stop="20181002123000 +0000" channel="Eurosport 1">
+    <programme start="20181002113000 +0000" stop="20181002123000 +0000" channel="Eurosport 1 HD">
         <title lang="pl">Tenis stołowy: Zawody Pucharu Świata w Chengdu</title>
         <category lang="pl">tenis stołowy</category>
     </programme>
-    <programme start="20181002123000 +0000" stop="20181002130000 +0000" channel="Eurosport 1">
+    <programme start="20181002123000 +0000" stop="20181002130000 +0000" channel="Eurosport 1 HD">
         <title lang="pl">Wyścigi superbike'ów: Mistrzostwa Świata w Magny-Cours</title>
         <category lang="pl">2. wyścig</category>
     </programme>
-    <programme start="20181002130000 +0000" stop="20181002143000 +0000" channel="Eurosport 1">
+    <programme start="20181002130000 +0000" stop="20181002143000 +0000" channel="Eurosport 1 HD">
         <title lang="pl">Piłka nożna: MLS</title>
         <category lang="pl">mecz: New York Red Bulls - Atlanta United</category>
     </programme>
-    <programme start="20181002143000 +0000" stop="20181002150000 +0000" channel="Eurosport 1">
+    <programme start="20181002143000 +0000" stop="20181002150000 +0000" channel="Eurosport 1 HD">
         <title lang="pl">MLS Highlights</title>
         <desc lang="pl">Skróty najciekawszych meczów weekendu w Major Soccer League. W programie najładniejsze bramki, efektowne parady bramkarzy, ale także aktualne tabele oraz...</desc>
         <category lang="pl">magazyn piłkarski</category>
     </programme>
-    <programme start="20181002150000 +0000" stop="20181002160000 +0000" channel="Eurosport 1">
+    <programme start="20181002150000 +0000" stop="20181002160000 +0000" channel="Eurosport 1 HD">
         <title lang="pl">Kolarstwo: Mistrzostwa Świata w Innsbrucku</title>
         <category lang="pl">wyścig elity mężczyzn</category>
     </programme>
-    <programme start="20181002160000 +0000" stop="20181002173000 +0000" channel="Eurosport 1">
+    <programme start="20181002160000 +0000" stop="20181002173000 +0000" channel="Eurosport 1 HD">
         <title lang="pl">Kolarstwo: Wyścig Binche-Chimay-Binche</title>
         <desc lang="pl">31. edycja wyścigu Memoriał Franka Vandenbroucke''a. Na trasie dzielącej belgijskie miejscowości Binche i Chimay rywalizować będą aż 24 zespoły. Do...</desc>
         <category lang="pl">kolarstwo</category>
     </programme>
-    <programme start="20181002173000 +0000" stop="20181002182500 +0000" channel="Eurosport 1">
+    <programme start="20181002173000 +0000" stop="20181002182500 +0000" channel="Eurosport 1 HD">
         <title lang="pl">Jeździectwo: Zawody w Belgii</title>
         <category lang="pl">jeździectwo</category>
     </programme>
-    <programme start="20181002182500 +0000" stop="20181002183500 +0000" channel="Eurosport 1">
+    <programme start="20181002182500 +0000" stop="20181002183500 +0000" channel="Eurosport 1 HD">
         <title lang="pl">Wiadomości Eurosportu</title>
         <desc lang="pl">Informacje na temat najciekawszych wydarzeń sportowych.</desc>
         <category lang="pl">magazyn informacyjny</category>
     </programme>
-    <programme start="20181002183500 +0000" stop="20181002184500 +0000" channel="Eurosport 1">
+    <programme start="20181002183500 +0000" stop="20181002184500 +0000" channel="Eurosport 1 HD">
         <title lang="pl">Watts</title>
         <desc lang="pl">Najzabawniejsze sytuacje ze sportowych aren całego świata zarejestrowane przez telewizyjne kamery.</desc>
         <category lang="pl">magazyn sportowy</category>
     </programme>
-    <programme start="20181002184500 +0000" stop="20181002191500 +0000" channel="Eurosport 1">
+    <programme start="20181002184500 +0000" stop="20181002191500 +0000" channel="Eurosport 1 HD">
         <title lang="pl">Wyścigi superbike'ów: Mistrzostwa Świata w Magny-Cours</title>
         <desc lang="pl">Do zakończenia sezonu Superbike World Championship pozostały już tylko trzy rundy, podczas których rozstrzygną się losy tytułu mistrzowskiego. Przed wyścigami...</desc>
         <category lang="pl">2. wyścig</category>
     </programme>
-    <programme start="20181002191500 +0000" stop="20181002194500 +0000" channel="Eurosport 1">
+    <programme start="20181002191500 +0000" stop="20181002194500 +0000" channel="Eurosport 1 HD">
         <title lang="pl">Magazyn LOTTO Ekstraklasy</title>
         <desc lang="pl">Podsumowanie najciekawszych sytuacji, które miały miejsce podczas minionej kolejki LOTTO Ekstraklasy.</desc>
     </programme>
-    <programme start="20181002194500 +0000" stop="20181002214500 +0000" channel="Eurosport 1">
+    <programme start="20181002194500 +0000" stop="20181002214500 +0000" channel="Eurosport 1 HD">
         <title lang="pl">Koszykówka mężczyzn: Eurocup</title>
         <desc lang="pl">Arka Gdynia powraca do europejskich pucharów po blisko sześcioletniej przerwie. Na inaugurację rozgrywek Eurocup podopieczni Przemysława Frasunkiewicza zmierzą się z...</desc>
         <category lang="pl">mecz fazy grupowej: Arka Gdynia - Lokomotiw Kubań</category>
     </programme>
-    <programme start="20181002214500 +0000" stop="20181002225500 +0000" channel="Eurosport 1">
+    <programme start="20181002214500 +0000" stop="20181002225500 +0000" channel="Eurosport 1 HD">
         <title lang="pl">Snooker: Turniej European Masters</title>
         <desc lang="pl">Piąty rankingowy turniej w tym sezonie przyciągnął do belgijskiego Lommel światową czołówkę snookerzystów. Udział w imprezie potwierdzili m.in. Neil Robertson,...</desc>
         <category lang="pl">2. dzień</category>
     </programme>
-    <programme start="20181002225500 +0000" stop="20181002230000 +0000" channel="Eurosport 1">
+    <programme start="20181002225500 +0000" stop="20181002230000 +0000" channel="Eurosport 1 HD">
         <title lang="pl">Wiadomości Eurosportu</title>
         <desc lang="pl">Informacje na temat najciekawszych wydarzeń sportowych.</desc>
         <category lang="pl">magazyn informacyjny</category>
     </programme>
-    <programme start="20181002230000 +0000" stop="20181002233000 +0000" channel="Eurosport 1">
+    <programme start="20181002230000 +0000" stop="20181002233000 +0000" channel="Eurosport 1 HD">
         <title lang="pl">Wyścigi samochodowe: FIA World Touring Car Cup w Ningbo</title>
         <desc lang="pl">Siódma runda sezonu FIA WTCC. Kierowcy przybywają na tor Ningbo International Circuit, aby rywalizować o kolejne punkty w klasyfikacji. Faworytem...</desc>
         <category lang="pl">wyścigi samochodowe</category>
     </programme>
-    <programme start="20181002233000 +0000" stop="20181002002500 +0000" channel="Eurosport 1">
+    <programme start="20181002233000 +0000" stop="20181002002500 +0000" channel="Eurosport 1 HD">
         <title lang="pl">Wyścigi samochodowe: Festival de la Velocidad</title>
         <desc lang="pl">Wyjątkowy pokaz samochodów wyścigowych organizowany na słynnym torze Circuit de Barcelona-Catalunya.</desc>
         <category lang="pl">wyścigi samochodowe</category>
     </programme>
-    <programme start="20181003002500 +0000" stop="20181003003000 +0000" channel="Eurosport 1">
+    <programme start="20181003002500 +0000" stop="20181003003000 +0000" channel="Eurosport 1 HD">
         <title lang="pl">Wiadomości Eurosportu</title>
         <desc lang="pl">Informacje na temat najciekawszych wydarzeń sportowych.</desc>
         <category lang="pl">magazyn informacyjny</category>
     </programme>
-    <programme start="20181003003000 +0000" stop="20181003013000 +0000" channel="Eurosport 1">
+    <programme start="20181003003000 +0000" stop="20181003013000 +0000" channel="Eurosport 1 HD">
         <title lang="pl">Kolarstwo: Wyścig Binche-Chimay-Binche</title>
         <category lang="pl">kolarstwo</category>
     </programme>
-    <programme start="20181003013000 +0000" stop="20181003030000 +0000" channel="Eurosport 1">
+    <programme start="20181003013000 +0000" stop="20181003030000 +0000" channel="Eurosport 1 HD">
         <title lang="pl">Snooker: Turniej European Masters</title>
         <desc lang="pl">Piąty rankingowy turniej w tym sezonie przyciągnął do belgijskiego Lommel światową czołówkę snookerzystów. Udział w imprezie potwierdzili m.in. Neil Robertson,...</desc>
         <category lang="pl">2. dzień</category>
     </programme>
-    <programme start="20181003030000 +0000" stop="20181003040000 +0000" channel="Eurosport 1">
+    <programme start="20181003030000 +0000" stop="20181003040000 +0000" channel="Eurosport 1 HD">
         <title lang="pl">Skoki narciarskie: Letnie Grand Prix w Hinzenbach</title>
         <category lang="pl">skoki narciarskie</category>
     </programme>
-    <programme start="20181003040000 +0000" stop="20181003053000 +0000" channel="Eurosport 1">
+    <programme start="20181003040000 +0000" stop="20181003053000 +0000" channel="Eurosport 1 HD">
         <title lang="pl">Kolarstwo: Wyścig Binche-Chimay-Binche</title>
         <category lang="pl">kolarstwo</category>
     </programme>
-    <programme start="20181003053000 +0000" channel="Eurosport 1">
+    <programme start="20181003053000 +0000" channel="Eurosport 1 HD">
         <title lang="pl">Snooker: Turniej European Masters</title>
         <desc lang="pl">Piąty rankingowy turniej w tym sezonie przyciągnął do belgijskiego Lommel światową czołówkę snookerzystów. Udział w imprezie potwierdzili m.in. Neil Robertson,...</desc>
         <category lang="pl">2. dzień</category>
     </programme>
-    <programme start="20181002070000 +0000" stop="20181002083000 +0000" channel="Eurosport 2">
+    <programme start="20181002070000 +0000" stop="20181002083000 +0000" channel="Eurosport 2 HD">
         <title lang="pl">Snooker: Turniej European Masters</title>
         <category lang="pl">1. dzień</category>
     </programme>
-    <programme start="20181002083000 +0000" stop="20181002093000 +0000" channel="Eurosport 2">
+    <programme start="20181002083000 +0000" stop="20181002093000 +0000" channel="Eurosport 2 HD">
         <title lang="pl">Kolarstwo: Mistrzostwa Świata w Innsbrucku</title>
         <category lang="pl">wyścig elity mężczyzn</category>
     </programme>
-    <programme start="20181002093000 +0000" stop="20181002101500 +0000" channel="Eurosport 2">
+    <programme start="20181002093000 +0000" stop="20181002101500 +0000" channel="Eurosport 2 HD">
         <title lang="pl">Wyścigi superbike'ów: Mistrzostwa Świata w Magny-Cours</title>
         <category lang="pl">1. wyścig</category>
     </programme>
-    <programme start="20181002101500 +0000" stop="20181002110000 +0000" channel="Eurosport 2">
+    <programme start="20181002101500 +0000" stop="20181002110000 +0000" channel="Eurosport 2 HD">
         <title lang="pl">Wyścigi superbike'ów: Mistrzostwa Świata w Magny-Cours</title>
         <category lang="pl">2. wyścig</category>
     </programme>
-    <programme start="20181002110000 +0000" stop="20181002125500 +0000" channel="Eurosport 2">
+    <programme start="20181002110000 +0000" stop="20181002125500 +0000" channel="Eurosport 2 HD">
         <title lang="pl">Snooker: Turniej European Masters</title>
         <category lang="pl">1. dzień</category>
     </programme>
-    <programme start="20181002125500 +0000" stop="20181002183000 +0000" channel="Eurosport 2">
+    <programme start="20181002125500 +0000" stop="20181002183000 +0000" channel="Eurosport 2 HD">
         <title lang="pl">Snooker: Turniej European Masters</title>
         <desc lang="pl">Piąty rankingowy turniej w tym sezonie przyciągnął do belgijskiego Lommel światową czołówkę snookerzystów. Udział w imprezie potwierdzili m.in. Neil Robertson,...</desc>
         <category lang="pl">2. dzień</category>
     </programme>
-    <programme start="20181002183000 +0000" stop="20181002190000 +0000" channel="Eurosport 2">
+    <programme start="20181002183000 +0000" stop="20181002190000 +0000" channel="Eurosport 2 HD">
         <title lang="pl">MLS Highlights</title>
         <desc lang="pl">Skróty najciekawszych meczów weekendu w Major Soccer League. W programie najładniejsze bramki, efektowne parady bramkarzy, ale także aktualne tabele oraz...</desc>
         <category lang="pl">magazyn piłkarski</category>
     </programme>
-    <programme start="20181002190000 +0000" stop="20181002202500 +0000" channel="Eurosport 2">
+    <programme start="20181002190000 +0000" stop="20181002202500 +0000" channel="Eurosport 2 HD">
         <title lang="pl">Kolarstwo: Wyścig Binche-Chimay-Binche</title>
         <desc lang="pl">31. edycja wyścigu Memoriał Franka Vandenbroucke''a. Na trasie dzielącej belgijskie miejscowości Binche i Chimay rywalizować będą aż 24 zespoły. Do...</desc>
         <category lang="pl">kolarstwo</category>
     </programme>
-    <programme start="20181002202500 +0000" stop="20181002203000 +0000" channel="Eurosport 2">
+    <programme start="20181002202500 +0000" stop="20181002203000 +0000" channel="Eurosport 2 HD">
         <title lang="pl">Wiadomości Eurosportu</title>
         <desc lang="pl">Informacje na temat najciekawszych wydarzeń sportowych.</desc>
         <category lang="pl">magazyn informacyjny</category>
     </programme>
-    <programme start="20181002203000 +0000" stop="20181002210000 +0000" channel="Eurosport 2">
+    <programme start="20181002203000 +0000" stop="20181002210000 +0000" channel="Eurosport 2 HD">
         <title lang="pl">Wyścigi samochodowe: FIA World Touring Car Cup w Ningbo</title>
         <desc lang="pl">Siódma runda sezonu FIA WTCC. Kierowcy przybywają na tor Ningbo International Circuit, aby rywalizować o kolejne punkty w klasyfikacji. Faworytem...</desc>
         <category lang="pl">wyścigi samochodowe</category>
     </programme>
-    <programme start="20181002210000 +0000" stop="20181002213000 +0000" channel="Eurosport 2">
+    <programme start="20181002210000 +0000" stop="20181002213000 +0000" channel="Eurosport 2 HD">
         <title lang="pl">Wyścigi samochodowe: FIA World Touring Car Cup w Ningbo</title>
         <desc lang="pl">Siódma runda sezonu FIA WTCC. Kierowcy przybywają na tor Ningbo International Circuit, aby rywalizować o kolejne punkty w klasyfikacji. Faworytem...</desc>
         <category lang="pl">wyścigi samochodowe</category>
     </programme>
-    <programme start="20181002213000 +0000" stop="20181002221500 +0000" channel="Eurosport 2">
+    <programme start="20181002213000 +0000" stop="20181002221500 +0000" channel="Eurosport 2 HD">
         <title lang="pl">Wyścigi superbike'ów: Mistrzostwa Świata w Magny-Cours</title>
         <category lang="pl">1. wyścig</category>
     </programme>
-    <programme start="20181002221500 +0000" stop="20181002230000 +0000" channel="Eurosport 2">
+    <programme start="20181002221500 +0000" stop="20181002230000 +0000" channel="Eurosport 2 HD">
         <title lang="pl">Wyścigi superbike'ów: Mistrzostwa Świata w Magny-Cours</title>
         <category lang="pl">2. wyścig</category>
     </programme>
-    <programme start="20181002230000 +0000" stop="20181002235500 +0000" channel="Eurosport 2">
+    <programme start="20181002230000 +0000" stop="20181002235500 +0000" channel="Eurosport 2 HD">
         <title lang="pl">Kolarstwo: Wyścig Binche-Chimay-Binche</title>
         <category lang="pl">kolarstwo</category>
     </programme>
-    <programme start="20181002235500 +0000" stop="20181002000000 +0000" channel="Eurosport 2">
+    <programme start="20181002235500 +0000" stop="20181002000000 +0000" channel="Eurosport 2 HD">
         <title lang="pl">Wiadomości Eurosportu</title>
         <desc lang="pl">Informacje na temat najciekawszych wydarzeń sportowych.</desc>
         <category lang="pl">magazyn informacyjny</category>
     </programme>
-    <programme start="20181003000000 +0000" stop="20181003013000 +0000" channel="Eurosport 2">
+    <programme start="20181003000000 +0000" stop="20181003013000 +0000" channel="Eurosport 2 HD">
         <title lang="pl">Snooker: Turniej European Masters</title>
         <desc lang="pl">Piąty rankingowy turniej w tym sezonie przyciągnął do belgijskiego Lommel światową czołówkę snookerzystów. Udział w imprezie potwierdzili m.in. Neil Robertson,...</desc>
         <category lang="pl">2. dzień</category>
     </programme>
-    <programme start="20181003013000 +0000" stop="20181003030000 +0000" channel="Eurosport 2">
+    <programme start="20181003013000 +0000" stop="20181003030000 +0000" channel="Eurosport 2 HD">
         <title lang="pl">Kolarstwo: Wyścig Binche-Chimay-Binche</title>
         <category lang="pl">kolarstwo</category>
     </programme>
-    <programme start="20181003030000 +0000" stop="20181003053000 +0000" channel="Eurosport 2">
+    <programme start="20181003030000 +0000" stop="20181003053000 +0000" channel="Eurosport 2 HD">
         <title lang="pl">Snooker: Turniej European Masters</title>
         <desc lang="pl">Piąty rankingowy turniej w tym sezonie przyciągnął do belgijskiego Lommel światową czołówkę snookerzystów. Udział w imprezie potwierdzili m.in. Neil Robertson,...</desc>
         <category lang="pl">2. dzień</category>
     </programme>
-    <programme start="20181003053000 +0000" channel="Eurosport 2">
+    <programme start="20181003053000 +0000" channel="Eurosport 2 HD">
         <title lang="pl">Kolarstwo: Wyścig Binche-Chimay-Binche</title>
         <category lang="pl">kolarstwo</category>
     </programme>
@@ -17573,405 +17573,405 @@
         <title lang="pl">Rozmowa</title>
         <category lang="pl">cykl felietonów</category>
     </programme>
-    <programme start="20181002050000 +0000" stop="20181002053500 +0000" channel="TVP 1">
+    <programme start="20181002050000 +0000" stop="20181002053500 +0000" channel="TVP1 HD">
         <title lang="pl">Telezakupy</title>
         <desc lang="pl">Prezentacja atrakcyjnych produktów codziennego użytku, które można kupić, nie wychodząc z domu.</desc>
     </programme>
-    <programme start="20181002053500 +0000" stop="20181002063500 +0000" channel="TVP 1">
+    <programme start="20181002053500 +0000" stop="20181002063500 +0000" channel="TVP1 HD">
         <title lang="pl">Elif (334)</title>
         <desc lang="pl">Służąca Melek zakochuje się w synu pracodawców. Zostaje odprawiona. Rodzi córkę ukochanego, Elif. Wychodzi za mąż za pijaka i hazardzistę....</desc>
         <category lang="pl">serial obyczajowy</category>
     </programme>
-    <programme start="20181002063500 +0000" stop="20181002072500 +0000" channel="TVP 1">
+    <programme start="20181002063500 +0000" stop="20181002072500 +0000" channel="TVP1 HD">
         <title lang="pl">Wieczna miłość (26)</title>
         <desc lang="pl">Pochodzący z ubogiej rodziny Kemal jest zdolnym i inteligentnym mężczyzną. Nihan urodziła się w zamożnej rodzinie. Pewnego dnia oboje się...</desc>
         <category lang="pl">telenowela</category>
     </programme>
-    <programme start="20181002072500 +0000" stop="20181002075500 +0000" channel="TVP 1">
+    <programme start="20181002072500 +0000" stop="20181002075500 +0000" channel="TVP1 HD">
         <title lang="pl">Jaka to melodia?</title>
         <desc lang="pl">W tygodniu show pojawia się na antenie jako teleturniej, w którym zawodnicy podają tytuły piosenek. W soboty startują dwie drużyny,...</desc>
         <category lang="pl">teleturniej muzyczny</category>
     </programme>
-    <programme start="20181002075500 +0000" stop="20181002080000 +0000" channel="TVP 1">
+    <programme start="20181002075500 +0000" stop="20181002080000 +0000" channel="TVP1 HD">
         <title lang="pl">Agropogoda</title>
         <desc lang="pl">Prognoza pogody dla rolników, sadowników oraz producentów warzyw i kwiatów. W programie są także zawarte informacje dla alergików.</desc>
         <category lang="pl">program informacyjny</category>
     </programme>
-    <programme start="20181002080000 +0000" stop="20181002081000 +0000" channel="TVP 1">
+    <programme start="20181002080000 +0000" stop="20181002081000 +0000" channel="TVP1 HD">
         <title lang="pl">Wiadomości</title>
         <desc lang="pl">Serwis informacyjny prezentujący najnowsze wydarzenia z kraju i ze świata, m.in. z dziedziny polityki, gospodarki, kultury.</desc>
         <category lang="pl">magazyn informacyjny</category>
     </programme>
-    <programme start="20181002081000 +0000" stop="20181002081500 +0000" channel="TVP 1">
+    <programme start="20181002081000 +0000" stop="20181002081500 +0000" channel="TVP1 HD">
         <title lang="pl">Pogoda</title>
         <desc lang="pl">Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.</desc>
         <category lang="pl">magazyn informacyjny</category>
     </programme>
-    <programme start="20181002081500 +0000" stop="20181002083000 +0000" channel="TVP 1">
+    <programme start="20181002081500 +0000" stop="20181002083000 +0000" channel="TVP1 HD">
         <title lang="pl">Kwadrans polityczny</title>
         <desc lang="pl">Prowadzący dyskutuje z ekspertami o bieżących wydarzeniach politycznych. Gośćmi w studiu są ekonomiści, publicyści i przedstawiciele różnych partii, którzy podsumowują...</desc>
         <category lang="pl">program publicystyczny</category>
     </programme>
-    <programme start="20181002083000 +0000" stop="20181002085500 +0000" channel="TVP 1">
+    <programme start="20181002083000 +0000" stop="20181002085500 +0000" channel="TVP1 HD">
         <title lang="pl">Alarm!</title>
         <desc lang="pl">W programie pojawiają się dziennikarskie interwencje, śledztwa i opowieści o realnych problemach Polski i jej mieszkańców. Reporterzy pokazują to w...</desc>
         <category lang="pl">magazyn interwencyjny</category>
     </programme>
-    <programme start="20181002085500 +0000" stop="20181002095500 +0000" channel="TVP 1">
+    <programme start="20181002085500 +0000" stop="20181002095500 +0000" channel="TVP1 HD">
         <title lang="pl">Ranczo 5: Wielki powrót (55)</title>
         <desc lang="pl">Dalsze losy Lucy Wilskiej we wsi Wilkowyje. Jej 'amerykańskie' poglądy często zderzają się z mentalnością polskich sąsiadów.</desc>
         <category lang="pl">serial obyczajowy</category>
     </programme>
-    <programme start="20181002095500 +0000" stop="20181002105000 +0000" channel="TVP 1">
+    <programme start="20181002095500 +0000" stop="20181002105000 +0000" channel="TVP1 HD">
         <title lang="pl">Komisarz Alex 10: Kwestia zaufania (120)</title>
         <desc lang="pl">Dalsze losy pracowników biura policji kryminalnej z Łodzi. Komisarz Piotr Górski (Krystian Wieczorek) i jego partnerzy stawiają czoło wielu wyzwaniom....</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="20181002105000 +0000" stop="20181002113000 +0000" channel="TVP 1">
+    <programme start="20181002105000 +0000" stop="20181002113000 +0000" channel="TVP1 HD">
         <title lang="pl">Jeden z dziesięciu</title>
         <desc lang="pl">Dziesięciu najlepszych z ostatnich 25 odcinków programu walczy dziś w wielkim finale. Zwycięzca - osoba, która zachowa choć jedną 'szansę'...</desc>
         <category lang="pl">wielki finał</category>
     </programme>
-    <programme start="20181002113000 +0000" stop="20181002120000 +0000" channel="TVP 1">
+    <programme start="20181002113000 +0000" stop="20181002120000 +0000" channel="TVP1 HD">
         <title lang="pl">Korona królów (101)</title>
         <desc lang="pl">Wójt zgłasza Kazimierzowi rabunki, do których dochodzi w jego kraju. Prosi także o wsparcie. Władca przydziela mu do pomocy Maćka....</desc>
         <category lang="pl">telenowela historyczna</category>
     </programme>
-    <programme start="20181002120000 +0000" stop="20181002121500 +0000" channel="TVP 1">
+    <programme start="20181002120000 +0000" stop="20181002121500 +0000" channel="TVP1 HD">
         <title lang="pl">Wiadomości</title>
         <desc lang="pl">Serwis informacyjny prezentujący najnowsze wydarzenia z kraju i ze świata, m.in. z dziedziny polityki, gospodarki, kultury.</desc>
         <category lang="pl">magazyn informacyjny</category>
     </programme>
-    <programme start="20181002121500 +0000" stop="20181002123500 +0000" channel="TVP 1">
+    <programme start="20181002121500 +0000" stop="20181002123500 +0000" channel="TVP1 HD">
         <title lang="pl">Agrobiznes</title>
         <desc lang="pl">Aktualne wiadomości z branży rolno-spożywczej, notowania giełdowe oraz prognozy cenowe.</desc>
         <category lang="pl">magazyn rolniczy</category>
     </programme>
-    <programme start="20181002123500 +0000" stop="20181002124000 +0000" channel="TVP 1">
+    <programme start="20181002123500 +0000" stop="20181002124000 +0000" channel="TVP1 HD">
         <title lang="pl">Agropogoda</title>
         <desc lang="pl">Prognoza pogody dla rolników, sadowników oraz producentów warzyw i kwiatów. W programie są także zawarte informacje dla alergików.</desc>
         <category lang="pl">program informacyjny</category>
     </programme>
-    <programme start="20181002124000 +0000" stop="20181002125500 +0000" channel="TVP 1">
+    <programme start="20181002124000 +0000" stop="20181002125500 +0000" channel="TVP1 HD">
         <title lang="pl">To się opłaca: Przetwórstwo i marketing produktów rolnych</title>
         <desc lang="pl">Autorzy wskazują, jak nowocześnie i skutecznie zarządzać gospodarstwem rolnym, planować produkcję i szybko reagować na potrzeby rynku.</desc>
         <category lang="pl">magazyn</category>
     </programme>
-    <programme start="20181002125500 +0000" stop="20181002140000 +0000" channel="TVP 1">
+    <programme start="20181002125500 +0000" stop="20181002140000 +0000" channel="TVP1 HD">
         <title lang="pl">Natura w Jedynce: Wielkie migracje zwierząt. Karibu</title>
         <desc lang="pl">Park Narodowy Ivvavik leży na dalekiej północy. Na to odległe i niedostępne miejsce w ciągu roku dociera mniej ludzi niż...</desc>
         <category lang="pl">film dokumentalny, Wielka Brytania 2016</category>
     </programme>
-    <programme start="20181002140000 +0000" stop="20181002150000 +0000" channel="TVP 1">
+    <programme start="20181002140000 +0000" stop="20181002150000 +0000" channel="TVP1 HD">
         <title lang="pl">Elif (335)</title>
         <desc lang="pl">Służąca Melek zakochuje się w synu pracodawców. Zostaje odprawiona. Rodzi córkę ukochanego, Elif. Wychodzi za mąż za pijaka i hazardzistę....</desc>
         <category lang="pl">serial obyczajowy</category>
     </programme>
-    <programme start="20181002150000 +0000" stop="20181002151000 +0000" channel="TVP 1">
+    <programme start="20181002150000 +0000" stop="20181002151000 +0000" channel="TVP1 HD">
         <title lang="pl">Wiadomości</title>
         <desc lang="pl">Serwis informacyjny prezentujący najnowsze wydarzenia z kraju i ze świata, m.in. z dziedziny polityki, gospodarki, kultury.</desc>
         <category lang="pl">magazyn informacyjny</category>
     </programme>
-    <programme start="20181002151000 +0000" stop="20181002151500 +0000" channel="TVP 1">
+    <programme start="20181002151000 +0000" stop="20181002151500 +0000" channel="TVP1 HD">
         <title lang="pl">Pogoda</title>
         <desc lang="pl">Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.</desc>
         <category lang="pl">magazyn informacyjny</category>
     </programme>
-    <programme start="20181002151500 +0000" stop="20181002153500 +0000" channel="TVP 1">
+    <programme start="20181002151500 +0000" stop="20181002153500 +0000" channel="TVP1 HD">
         <title lang="pl">Alarm!</title>
         <desc lang="pl">W programie pojawiają się dziennikarskie interwencje, śledztwa i opowieści o realnych problemach Polski i jej mieszkańców. Reporterzy pokazują to w...</desc>
         <category lang="pl">magazyn interwencyjny</category>
     </programme>
-    <programme start="20181002153500 +0000" stop="20181002160500 +0000" channel="TVP 1">
+    <programme start="20181002153500 +0000" stop="20181002160500 +0000" channel="TVP1 HD">
         <title lang="pl">Leśniczówka (37)</title>
         <desc lang="pl">Leśniczówka to miejscowość, do której po śmierci ukochanego dziadka Antoniego (Marian Dziędziel), leśniczego postrzelonego w tajemniczych okolicznościach, przenosi się rodzina...</desc>
         <category lang="pl">telenowela</category>
     </programme>
-    <programme start="20181002160500 +0000" stop="20181002170000 +0000" channel="TVP 1">
+    <programme start="20181002160500 +0000" stop="20181002170000 +0000" channel="TVP1 HD">
         <title lang="pl">Wieczna miłość (27)</title>
         <desc lang="pl">Pochodzący z ubogiej rodziny Kemal jest zdolnym i inteligentnym mężczyzną. Nihan urodziła się w zamożnej rodzinie. Pewnego dnia oboje się...</desc>
         <category lang="pl">telenowela</category>
     </programme>
-    <programme start="20181002170000 +0000" stop="20181002171800 +0000" channel="TVP 1">
+    <programme start="20181002170000 +0000" stop="20181002171800 +0000" channel="TVP1 HD">
         <title lang="pl">Teleexpress</title>
         <desc lang="pl">Dynamicznie prowadzony serwis informacyjny prezentujący aktualne wydarzenia, wiadomości kulturalne oraz ciekawostki z kraju i ze świata.</desc>
         <category lang="pl">magazyn informacyjny</category>
     </programme>
-    <programme start="20181002171800 +0000" stop="20181002173000 +0000" channel="TVP 1">
+    <programme start="20181002171800 +0000" stop="20181002173000 +0000" channel="TVP1 HD">
         <title lang="pl">Pogoda</title>
         <desc lang="pl">Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.</desc>
         <category lang="pl">magazyn informacyjny</category>
     </programme>
-    <programme start="20181002173000 +0000" stop="20181002180000 +0000" channel="TVP 1">
+    <programme start="20181002173000 +0000" stop="20181002180000 +0000" channel="TVP1 HD">
         <title lang="pl">Jaka to melodia?</title>
         <desc lang="pl">W tygodniu show pojawia się na antenie jako teleturniej, w którym zawodnicy podają tytuły piosenek. W soboty startują dwie drużyny,...</desc>
         <category lang="pl">teleturniej muzyczny</category>
     </programme>
-    <programme start="20181002180000 +0000" stop="20181002183000 +0000" channel="TVP 1">
+    <programme start="20181002180000 +0000" stop="20181002183000 +0000" channel="TVP1 HD">
         <title lang="pl">Klan (3344)</title>
         <desc lang="pl">Losy członków rodziny Lubiczów, ich bliskich i przyjaciół, którzy każdego dnia mierzą się z różnymi problemami w życiu prywatnym oraz...</desc>
         <category lang="pl">telenowela</category>
     </programme>
-    <programme start="20181002183000 +0000" stop="20181002185500 +0000" channel="TVP 1">
+    <programme start="20181002183000 +0000" stop="20181002185500 +0000" channel="TVP1 HD">
         <title lang="pl">Korona królów (102)</title>
         <desc lang="pl">Na dwór świdnicki wraca Bolko ze skradzioną skrzynią. Jego łup staje się tematem do plotek. Słynący z porywczego charakteru Guncel...</desc>
         <category lang="pl">telenowela historyczna</category>
     </programme>
-    <programme start="20181002185500 +0000" stop="20181002193000 +0000" channel="TVP 1">
+    <programme start="20181002185500 +0000" stop="20181002193000 +0000" channel="TVP1 HD">
         <title lang="pl">Jeden z dziesięciu</title>
         <desc lang="pl">W teleturnieju startuje dziesięcioro zawodników. Gdy pozostanie ich troje, rozpoczyna się finałowa runda, zakończona wyłonieniem zwycięzcy.</desc>
         <category lang="pl">teleturniej</category>
     </programme>
-    <programme start="20181002193000 +0000" stop="20181002200500 +0000" channel="TVP 1">
+    <programme start="20181002193000 +0000" stop="20181002200500 +0000" channel="TVP1 HD">
         <title lang="pl">Wiadomości</title>
         <desc lang="pl">Serwis informacyjny prezentujący najnowsze wydarzenia z kraju i ze świata, m.in. z dziedziny polityki, gospodarki, kultury.</desc>
         <category lang="pl">magazyn informacyjny</category>
     </programme>
-    <programme start="20181002200500 +0000" stop="20181002201000 +0000" channel="TVP 1">
+    <programme start="20181002200500 +0000" stop="20181002201000 +0000" channel="TVP1 HD">
         <title lang="pl">Pogoda</title>
         <desc lang="pl">Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.</desc>
         <category lang="pl">magazyn informacyjny</category>
     </programme>
-    <programme start="20181002201000 +0000" stop="20181002202500 +0000" channel="TVP 1">
+    <programme start="20181002201000 +0000" stop="20181002202500 +0000" channel="TVP1 HD">
         <title lang="pl">Alarm!</title>
         <desc lang="pl">W programie pojawiają się dziennikarskie interwencje, śledztwa i opowieści o realnych problemach Polski i jej mieszkańców. Reporterzy pokazują to w...</desc>
         <category lang="pl">magazyn interwencyjny</category>
     </programme>
-    <programme start="20181002202500 +0000" stop="20181002203000 +0000" channel="TVP 1">
+    <programme start="20181002202500 +0000" stop="20181002203000 +0000" channel="TVP1 HD">
         <title lang="pl">Sport</title>
         <desc lang="pl">Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.</desc>
         <category lang="pl">magazyn sportowy</category>
     </programme>
-    <programme start="20181002203000 +0000" stop="20181002210000 +0000" channel="TVP 1">
+    <programme start="20181002203000 +0000" stop="20181002210000 +0000" channel="TVP1 HD">
         <title lang="pl">Leśniczówka (38)</title>
         <desc lang="pl">Leśniczówka to miejscowość, do której po śmierci ukochanego dziadka Antoniego (Marian Dziędziel), leśniczego postrzelonego w tajemniczych okolicznościach, przenosi się rodzina...</desc>
         <category lang="pl">telenowela</category>
     </programme>
-    <programme start="20181002210000 +0000" stop="20181002214000 +0000" channel="TVP 1">
+    <programme start="20181002210000 +0000" stop="20181002214000 +0000" channel="TVP1 HD">
         <title lang="pl">Orły sportu (3)</title>
         <desc lang="pl">Prowadząca program Sylwia Dekiert zaprasza do studia znanych polskich sportowców. Pyta swoich gości o przebieg kariery i plany na przyszłość....</desc>
         <category lang="pl">cykl reportaży</category>
     </programme>
-    <programme start="20181002214000 +0000" stop="20181002223500 +0000" channel="TVP 1">
+    <programme start="20181002214000 +0000" stop="20181002223500 +0000" channel="TVP1 HD">
         <title lang="pl">Kompania X (4/8)</title>
         <desc lang="pl">II wojna światowa. Historie pięciu wysoko wykwalifikowanych młodych rekrutów, którzy przechodzą szkolenie na tajnych agentów.</desc>
         <category lang="pl">serial wojenny</category>
     </programme>
-    <programme start="20181002223500 +0000" stop="20181002005500 +0000" channel="TVP 1">
+    <programme start="20181002223500 +0000" stop="20181002005500 +0000" channel="TVP1 HD">
         <title lang="pl">Port lotniczy</title>
         <desc lang="pl">Produkcja zdobyła dziesięć nominacji do Oscara.</desc>
         <category lang="pl">film katastroficzny, USA 1970</category>
     </programme>
-    <programme start="20181003005500 +0000" stop="20181003012500 +0000" channel="TVP 1">
+    <programme start="20181003005500 +0000" stop="20181003012500 +0000" channel="TVP1 HD">
         <title lang="pl">Festiwal Niepokorni Niezłomni Wyklęci 2018. Studio festiwalowe</title>
         <category lang="pl">cykl reportaży</category>
     </programme>
-    <programme start="20181003012500 +0000" stop="20181003022000 +0000" channel="TVP 1">
+    <programme start="20181003012500 +0000" stop="20181003022000 +0000" channel="TVP1 HD">
         <title lang="pl">Czy świat oszalał?: Walcząc z Państwem Islamskim</title>
         <desc lang="pl">Kurdowie walczą o ustanowienie własnego państwa. Dokument przedstawia m.in. peszmergów - kurdyjskich wojowników, którzy są najskuteczniejszą siłą w bataliach lądowych...</desc>
         <category lang="pl">film dokumentalny, USA 2015</category>
     </programme>
-    <programme start="20181003022000 +0000" stop="20181003040000 +0000" channel="TVP 1">
+    <programme start="20181003022000 +0000" stop="20181003040000 +0000" channel="TVP1 HD">
         <title lang="pl">Umarłem, aby żyć</title>
         <desc lang="pl">Film zainspirowany prawdziwą historią.</desc>
         <category lang="pl">film wojenny, Polska 1984</category>
     </programme>
-    <programme start="20181003040000 +0000" stop="20181003041500 +0000" channel="TVP 1">
+    <programme start="20181003040000 +0000" stop="20181003041500 +0000" channel="TVP1 HD">
         <title lang="pl">Notacje: Jan Kanty Pawluśkiewicz. Nieznośna lekkość nonkonformizmu</title>
         <desc lang="pl">Cykl prezentuje archiwalne materiały, zawierające opowieści zasłużonych dla Polski naukowców, artystów czy społeczników.</desc>
         <category lang="pl">cykl dokumentalny</category>
     </programme>
-    <programme start="20181003041500 +0000" channel="TVP 1">
+    <programme start="20181003041500 +0000" channel="TVP1 HD">
         <title lang="pl">Zakończenie programu</title>
     </programme>
-    <programme start="20181002053000 +0000" stop="20181002060500 +0000" channel="TVP 2">
+    <programme start="20181002053000 +0000" stop="20181002060500 +0000" channel="TVP2 HD">
         <title lang="pl">Koło fortuny (231)</title>
         <desc lang="pl">W grze zawsze bierze udział trzech zawodników. Każdy kolejno kręci kołem i odgaduje hasła, odsłaniając litery. Za poprawnie wytypowaną spółgłoskę...</desc>
         <category lang="pl">teleturniej</category>
     </programme>
-    <programme start="20181002060500 +0000" stop="20181002070000 +0000" channel="TVP 2">
+    <programme start="20181002060500 +0000" stop="20181002070000 +0000" channel="TVP2 HD">
         <title lang="pl">M jak miłość (1385)</title>
         <desc lang="pl">Michał zaprasza Asię na promocję swojej książki. Uzależniony od hazardu pisarz znów gra w kasynie. Iza nadal leży nieprzytomna w...</desc>
         <category lang="pl">serial obyczajowy</category>
     </programme>
-    <programme start="20181002070000 +0000" stop="20181002072000 +0000" channel="TVP 2">
+    <programme start="20181002070000 +0000" stop="20181002072000 +0000" channel="TVP2 HD">
         <title lang="pl">Wystarczy chcieć</title>
         <desc lang="pl">Historia Fundacji Futurum powstałej w parafii w Orli na Podlasiu. Organizacja bierze pod swoje skrzydła dzieci z biednych rodzin, by...</desc>
         <category lang="pl">reportaż</category>
     </programme>
-    <programme start="20181002072000 +0000" stop="20181002075500 +0000" channel="TVP 2">
+    <programme start="20181002072000 +0000" stop="20181002075500 +0000" channel="TVP2 HD">
         <title lang="pl">Na sygnale: Pierwszy pocałunek (125)</title>
         <desc lang="pl">Dalsze losy ekipy ze stacji pogotowia w Leśnej Górze. Góra, Banach i Reiter oraz ich podwładni zmierzą się z kolejnymi...</desc>
         <category lang="pl">serial fabularno-dokumentalny</category>
     </programme>
-    <programme start="20181002075500 +0000" stop="20181002083500 +0000" channel="TVP 2">
+    <programme start="20181002075500 +0000" stop="20181002083500 +0000" channel="TVP2 HD">
         <title lang="pl">Pytanie na śniadanie</title>
         <desc lang="pl">Praktyczne porady, wizyty znanych gości i gotowanie na ekranie. Program prowadzą pary popularnych dziennikarzy.</desc>
         <category lang="pl">magazyn</category>
     </programme>
-    <programme start="20181002083500 +0000" stop="20181002084000 +0000" channel="TVP 2">
+    <programme start="20181002083500 +0000" stop="20181002084000 +0000" channel="TVP2 HD">
         <title lang="pl">Pogoda</title>
         <desc lang="pl">Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.</desc>
         <category lang="pl">magazyn informacyjny</category>
     </programme>
-    <programme start="20181002084000 +0000" stop="20181002084500 +0000" channel="TVP 2">
+    <programme start="20181002084000 +0000" stop="20181002084500 +0000" channel="TVP2 HD">
         <title lang="pl">Pytanie na śniadanie</title>
         <desc lang="pl">Praktyczne porady, wizyty znanych gości i gotowanie na ekranie. Program prowadzą pary popularnych dziennikarzy.</desc>
         <category lang="pl">magazyn</category>
     </programme>
-    <programme start="20181002084500 +0000" stop="20181002085000 +0000" channel="TVP 2">
+    <programme start="20181002084500 +0000" stop="20181002085000 +0000" channel="TVP2 HD">
         <title lang="pl">Panorama</title>
         <desc lang="pl">Główny program informacyjny telewizyjnej Dwójki podsumowujący najważniejsze wydarzenia minionego dnia z kraju i ze świata.</desc>
         <category lang="pl">magazyn informacyjny</category>
     </programme>
-    <programme start="20181002085000 +0000" stop="20181002110000 +0000" channel="TVP 2">
+    <programme start="20181002085000 +0000" stop="20181002110000 +0000" channel="TVP2 HD">
         <title lang="pl">Pytanie na śniadanie</title>
         <desc lang="pl">Praktyczne porady, wizyty znanych gości i gotowanie na ekranie. Program prowadzą pary popularnych dziennikarzy.</desc>
         <category lang="pl">magazyn</category>
     </programme>
-    <programme start="20181002110000 +0000" stop="20181002110500 +0000" channel="TVP 2">
+    <programme start="20181002110000 +0000" stop="20181002110500 +0000" channel="TVP2 HD">
         <title lang="pl">Panorama</title>
         <desc lang="pl">Główny program informacyjny telewizyjnej Dwójki podsumowujący najważniejsze wydarzenia minionego dnia z kraju i ze świata.</desc>
         <category lang="pl">magazyn informacyjny</category>
     </programme>
-    <programme start="20181002110500 +0000" stop="20181002111000 +0000" channel="TVP 2">
+    <programme start="20181002110500 +0000" stop="20181002111000 +0000" channel="TVP2 HD">
         <title lang="pl">Pogoda</title>
         <desc lang="pl">Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.</desc>
         <category lang="pl">magazyn informacyjny</category>
     </programme>
-    <programme start="20181002111000 +0000" stop="20181002112500 +0000" channel="TVP 2">
+    <programme start="20181002111000 +0000" stop="20181002112500 +0000" channel="TVP2 HD">
         <title lang="pl">Pytanie na śniadanie</title>
         <desc lang="pl">Praktyczne porady, wizyty znanych gości i gotowanie na ekranie. Program prowadzą pary popularnych dziennikarzy.</desc>
         <category lang="pl">magazyn poradnikowy</category>
     </programme>
-    <programme start="20181002112500 +0000" stop="20181002115500 +0000" channel="TVP 2">
+    <programme start="20181002112500 +0000" stop="20181002115500 +0000" channel="TVP2 HD">
         <title lang="pl">Rodzinka.pl: Marzenia Kacperka (14)</title>
         <desc lang="pl">Perypetie Natalii i Ludwika Boskich, rodziców trójki rezolutnych chłopców. Boscy poznali się na studiach i nadal darzą się gorącym uczuciem.</desc>
         <category lang="pl">serial komediowy</category>
     </programme>
-    <programme start="20181002115500 +0000" stop="20181002123000 +0000" channel="TVP 2">
+    <programme start="20181002115500 +0000" stop="20181002123000 +0000" channel="TVP2 HD">
         <title lang="pl">Barwy szczęścia (1909)</title>
         <desc lang="pl">Dalsze losy mieszkańców osiedla przy ulicy Zacisznej. Widzowie poznają dalsze perypetie m.in. rodu Marczaków, Kasi Górki oraz jej bliskich, członków...</desc>
         <category lang="pl">serial obyczajowy</category>
     </programme>
-    <programme start="20181002123000 +0000" stop="20181002131500 +0000" channel="TVP 2">
+    <programme start="20181002123000 +0000" stop="20181002131500 +0000" channel="TVP2 HD">
         <title lang="pl">Koło fortuny (232)</title>
         <desc lang="pl">W grze zawsze bierze udział trzech zawodników. Każdy kolejno kręci kołem i odgaduje hasła, odsłaniając litery. Za poprawnie wytypowaną spółgłoskę...</desc>
         <category lang="pl">teleturniej</category>
     </programme>
-    <programme start="20181002131500 +0000" stop="20181002141000 +0000" channel="TVP 2">
+    <programme start="20181002131500 +0000" stop="20181002141000 +0000" channel="TVP2 HD">
         <title lang="pl">Cena miłości (49/114)</title>
         <desc lang="pl">Jawuz składa Sawaszowi propozycję pojednania klanów. Zwolniony z pracy Mehmet wykrada kluczowe informacje na temat firmy. Ahmet Moran zgadza się...</desc>
         <category lang="pl">serial obyczajowy</category>
     </programme>
-    <programme start="20181002141000 +0000" stop="20181002151000 +0000" channel="TVP 2">
+    <programme start="20181002141000 +0000" stop="20181002151000 +0000" channel="TVP2 HD">
         <title lang="pl">Postaw na milion</title>
         <desc lang="pl">W każdym odcinku bierze udział dwoje uczestników. Dostają milion złotych. Żeby go nie stracić, muszą poprawnie odpowiedzieć na osiem pytań.</desc>
         <category lang="pl">teleturniej</category>
     </programme>
-    <programme start="20181002151000 +0000" stop="20181002160000 +0000" channel="TVP 2">
+    <programme start="20181002151000 +0000" stop="20181002160000 +0000" channel="TVP2 HD">
         <title lang="pl">M jak miłość (1385)</title>
         <desc lang="pl">Michał zaprasza Asię na promocję swojej książki. Uzależniony od hazardu pisarz znów gra w kasynie. Iza nadal leży nieprzytomna w...</desc>
         <category lang="pl">serial obyczajowy</category>
     </programme>
-    <programme start="20181002160000 +0000" stop="20181002163500 +0000" channel="TVP 2">
+    <programme start="20181002160000 +0000" stop="20181002163500 +0000" channel="TVP2 HD">
         <title lang="pl">Koło fortuny (289)</title>
         <desc lang="pl">W grze zawsze bierze udział trzech zawodników. Każdy kolejno kręci kołem i odgaduje hasła, odsłaniając litery. Za poprawnie wytypowaną spółgłoskę...</desc>
         <category lang="pl">teleturniej</category>
     </programme>
-    <programme start="20181002163500 +0000" stop="20181002171000 +0000" channel="TVP 2">
+    <programme start="20181002163500 +0000" stop="20181002171000 +0000" channel="TVP2 HD">
         <title lang="pl">Familiada</title>
         <desc lang="pl">Dwie pięcioosobowe drużyny odpowiadają na pytania, które zadano wcześniej grupie próbnej. Teleturniej prowadzi Karol Strasburger.</desc>
         <category lang="pl">teleturniej</category>
     </programme>
-    <programme start="20181002171000 +0000" stop="20181002180000 +0000" channel="TVP 2">
+    <programme start="20181002171000 +0000" stop="20181002180000 +0000" channel="TVP2 HD">
         <title lang="pl">Łzy Cennet (24/151)</title>
         <desc lang="pl">Po studiach Cennet (Almila Ada) zatrudnia się w firmie budowlanej. Tam spotyka przystojnego Selima (Berk Atan). Niestety matka jej koleżanki,...</desc>
         <category lang="pl">serial obyczajowy</category>
     </programme>
-    <programme start="20181002180000 +0000" stop="20181002182500 +0000" channel="TVP 2">
+    <programme start="20181002180000 +0000" stop="20181002182500 +0000" channel="TVP2 HD">
         <title lang="pl">Panorama</title>
         <desc lang="pl">Główny program informacyjny telewizyjnej Dwójki podsumowujący najważniejsze wydarzenia minionego dnia z kraju i ze świata.</desc>
         <category lang="pl">magazyn informacyjny</category>
     </programme>
-    <programme start="20181002182500 +0000" stop="20181002183000 +0000" channel="TVP 2">
+    <programme start="20181002182500 +0000" stop="20181002183000 +0000" channel="TVP2 HD">
         <title lang="pl">Pogoda</title>
         <desc lang="pl">Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.</desc>
         <category lang="pl">magazyn informacyjny</category>
     </programme>
-    <programme start="20181002183000 +0000" stop="20181002183500 +0000" channel="TVP 2">
+    <programme start="20181002183000 +0000" stop="20181002183500 +0000" channel="TVP2 HD">
         <title lang="pl">Sport telegram</title>
         <desc lang="pl">Autorzy programu w telegraficznym skrócie przedstawiają najważniejsze sportowe wydarzenia minionego dnia.</desc>
         <category lang="pl">magazyn sportowy</category>
     </programme>
-    <programme start="20181002183500 +0000" stop="20181002190500 +0000" channel="TVP 2">
+    <programme start="20181002183500 +0000" stop="20181002190500 +0000" channel="TVP2 HD">
         <title lang="pl">Rodzinka.pl: Manipulować, ale z uwagą (171)</title>
         <desc lang="pl">Dalsze losy rodziny Boskich, Natalii i Ludwika, oraz ich dzieci. Usamodzielnienie się najstarszego z synów i wyjazd młodszego na studia...</desc>
         <category lang="pl">serial komediowy</category>
     </programme>
-    <programme start="20181002190500 +0000" stop="20181002193500 +0000" channel="TVP 2">
+    <programme start="20181002190500 +0000" stop="20181002193500 +0000" channel="TVP2 HD">
         <title lang="pl">Wszystko przed nami (56)</title>
         <desc lang="pl">Losy młodych Polaków, którzy po latach spędzonych we Włoszech zdecydowali się wrócić do ojczyzny. Chcą otworzyć hostel i bar w...</desc>
         <category lang="pl">serial obyczajowy</category>
     </programme>
-    <programme start="20181002193500 +0000" stop="20181002201000 +0000" channel="TVP 2">
+    <programme start="20181002193500 +0000" stop="20181002201000 +0000" channel="TVP2 HD">
         <title lang="pl">Barwy szczęścia (1909)</title>
         <desc lang="pl">Dalsze losy mieszkańców osiedla przy ulicy Zacisznej. Widzowie poznają dalsze perypetie m.in. rodu Marczaków, Kasi Górki oraz jej bliskich, członków...</desc>
         <category lang="pl">serial obyczajowy</category>
     </programme>
-    <programme start="20181002201000 +0000" stop="20181002204000 +0000" channel="TVP 2">
+    <programme start="20181002201000 +0000" stop="20181002204000 +0000" channel="TVP2 HD">
         <title lang="pl">Barwy szczęścia (1910)</title>
         <desc lang="pl">Dalsze losy mieszkańców osiedla przy ulicy Zacisznej. Widzowie poznają dalsze perypetie m.in. rodu Marczaków, Kasi Górki oraz jej bliskich, członków...</desc>
         <category lang="pl">serial obyczajowy</category>
     </programme>
-    <programme start="20181002204000 +0000" stop="20181002205500 +0000" channel="TVP 2">
+    <programme start="20181002204000 +0000" stop="20181002205500 +0000" channel="TVP2 HD">
         <title lang="pl">Kulisy serialu "Barwy szczęścia" (48)</title>
         <desc lang="pl">Relacja z planu 'Barw szczęścia'. Widzowie poznają ciekawostki o postaciach, dowiedzą się, jak wygląda praca po drugiej stronie kamery i...</desc>
         <category lang="pl">cykl felietonów</category>
     </programme>
-    <programme start="20181002205500 +0000" stop="20181002214500 +0000" channel="TVP 2">
+    <programme start="20181002205500 +0000" stop="20181002214500 +0000" channel="TVP2 HD">
         <title lang="pl">M jak miłość (1386)</title>
         <desc lang="pl">Marcin ucieka przed Arturem do Grabiny. Prosi o pomoc Barbarę. Skalski domyśla się, gdzie Chodakowski się ukrywa. Ewa proponuje Markowi,...</desc>
         <category lang="pl">serial obyczajowy</category>
     </programme>
-    <programme start="20181002214500 +0000" stop="20181002215500 +0000" channel="TVP 2">
+    <programme start="20181002214500 +0000" stop="20181002215500 +0000" channel="TVP2 HD">
         <title lang="pl">Kulisy serialu "M jak miłość"</title>
         <desc lang="pl">Program, w którym zobaczymy reportaże z planu serialu "M jak miłość", rozmowy z aktorami grającymi główne role i wywiady z...</desc>
     </programme>
-    <programme start="20181002215500 +0000" stop="20181002230000 +0000" channel="TVP 2">
+    <programme start="20181002215500 +0000" stop="20181002230000 +0000" channel="TVP2 HD">
         <title lang="pl">Magazyn Ekspresu Reporterów</title>
         <desc lang="pl">Dziennikarze poruszają trudne i kontrowersyjne tematy, takie jak korupcja i niesprawiedliwość. Program prowadzi Michał Olszański.</desc>
     </programme>
-    <programme start="20181002230000 +0000" stop="20181002002000 +0000" channel="TVP 2">
+    <programme start="20181002230000 +0000" stop="20181002002000 +0000" channel="TVP2 HD">
         <title lang="pl">Świat bez fikcji: Chicago Girl. Facebookowa rewolucja</title>
         <desc lang="pl">Mieszkająca w USA 19-letnia Ala'a Basatneh wspiera działania opozycyjne przeciw dyktaturze Baszszara al-Assada. Za pomocą mediów społecznościowych promuje akcje syryjskich...</desc>
         <category lang="pl">film dokumentalny, Syria/USA 2013</category>
     </programme>
-    <programme start="20181003002000 +0000" stop="20181003005000 +0000" channel="TVP 2">
+    <programme start="20181003002000 +0000" stop="20181003005000 +0000" channel="TVP2 HD">
         <title lang="pl">Rodzinka.pl: Rodzinna kolacja (242)</title>
         <desc lang="pl">Agata chce wziąć udział w rozbieranej sesji zdjęciowej. Kacper przerywa kłótnię rodziców. Kuba zagląda pod łóżko brata. Dokonuje zaskakującego odkrycia....</desc>
         <category lang="pl">serial komediowy</category>
     </programme>
-    <programme start="20181003005000 +0000" stop="20181003014500 +0000" channel="TVP 2">
+    <programme start="20181003005000 +0000" stop="20181003014500 +0000" channel="TVP2 HD">
         <title lang="pl">Syn (2/10)</title>
         <desc lang="pl">Eli i jego syn stają w obliczu ataku na ich platformę wiertniczą. Chwytają jednego ze sprawców. Eli chce wydobyć od...</desc>
         <category lang="pl">serial obyczajowy</category>
     </programme>
-    <programme start="20181003014500 +0000" stop="20181003024500 +0000" channel="TVP 2">
+    <programme start="20181003014500 +0000" stop="20181003024500 +0000" channel="TVP2 HD">
         <title lang="pl">Paradoks: Animalia (10/13)</title>
         <desc lang="pl">Do zespołu inspektora Kaszowskiego dołącza podkomisarz Joanna Majewska, funkcjonariuszka Biura Służby Wewnętrznej, która ma go skontrolować.</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
-    <programme start="20181003024500 +0000" stop="20181003035000 +0000" channel="TVP 2">
+    <programme start="20181003024500 +0000" stop="20181003035000 +0000" channel="TVP2 HD">
         <title lang="pl">Magazyn Ekspresu Reporterów</title>
         <desc lang="pl">Dziennikarze poruszają trudne i kontrowersyjne tematy, takie jak korupcja i niesprawiedliwość. Program prowadzi Michał Olszański.</desc>
     </programme>
-    <programme start="20181003035000 +0000" stop="20181003044000 +0000" channel="TVP 2">
+    <programme start="20181003035000 +0000" stop="20181003044000 +0000" channel="TVP2 HD">
         <title lang="pl">Stuletni kierowcy</title>
         <desc lang="pl">Po angielskich drogach jeździ 191 zarejestrowanych kierowców, którzy skończyli 100 rok życia. Widzowie poznają m.in. 102-letniego motocyklistę Searsona oraz Mary,...</desc>
         <category lang="pl">film dokumentalny, Wielka Brytania 2014</category>
     </programme>
-    <programme start="20181003044000 +0000" channel="TVP 2">
+    <programme start="20181003044000 +0000" channel="TVP2 HD">
         <title lang="pl">Zakończenie programu</title>
     </programme>
     <programme start="20181002044000 +0000" stop="20181002050500 +0000" channel="TVP ABC">
@@ -19648,75 +19648,75 @@
     <programme start="20181003052500 +0000" channel="TVP Seriale">
         <title lang="pl">Zakończenie programu</title>
     </programme>
-    <programme start="20181002063000 +0000" stop="20181002083000 +0000" channel="TVP Sport">
+    <programme start="20181002063000 +0000" stop="20181002083000 +0000" channel="TVP Sport HD">
         <title lang="pl">Tenis: Turniej WTA w Pekinie</title>
         <category lang="pl">mecz 2. rundy gry pojedynczej</category>
     </programme>
-    <programme start="20181002083000 +0000" stop="20181002103000 +0000" channel="TVP Sport">
+    <programme start="20181002083000 +0000" stop="20181002103000 +0000" channel="TVP Sport HD">
         <title lang="pl">Tenis: Turniej WTA w Pekinie</title>
         <category lang="pl">mecz 2. rundy gry pojedynczej</category>
     </programme>
-    <programme start="20181002103000 +0000" stop="20181002122500 +0000" channel="TVP Sport">
+    <programme start="20181002103000 +0000" stop="20181002122500 +0000" channel="TVP Sport HD">
         <title lang="pl">Tenis: Turniej WTA w Pekinie</title>
         <category lang="pl">mecz 2. rundy gry pojedynczej</category>
     </programme>
-    <programme start="20181002122500 +0000" stop="20181002133000 +0000" channel="TVP Sport">
+    <programme start="20181002122500 +0000" stop="20181002133000 +0000" channel="TVP Sport HD">
         <title lang="pl">Strongman: Liga Mistrzów 2018 (1)</title>
         <desc lang="pl">W tegorocznej edycji rozgrywek odbędzie się szesnaście rund. Po piętnastu eliminacjach dziesięciu najlepszych zawodników zmierzy się w finale. W Lidze...</desc>
         <category lang="pl">sporty siłowe</category>
     </programme>
-    <programme start="20181002133000 +0000" stop="20181002153000 +0000" channel="TVP Sport">
+    <programme start="20181002133000 +0000" stop="20181002153000 +0000" channel="TVP Sport HD">
         <title lang="pl">Tenis: Turniej WTA w Pekinie</title>
         <category lang="pl">mecz 2. rundy gry pojedynczej</category>
     </programme>
-    <programme start="20181002153000 +0000" stop="20181002155500 +0000" channel="TVP Sport">
+    <programme start="20181002153000 +0000" stop="20181002155500 +0000" channel="TVP Sport HD">
         <title lang="pl">4-4-2 (1)</title>
         <desc lang="pl">Kulisy polskiego futbolu tym razem odsłaniane przez dziennikarzy i ekspertów. Ciekawa i wnikliwa analiza zdarzeń na boisku.</desc>
         <category lang="pl">magazyn piłkarski</category>
     </programme>
-    <programme start="20181002155500 +0000" stop="20181002163000 +0000" channel="TVP Sport">
+    <programme start="20181002155500 +0000" stop="20181002163000 +0000" channel="TVP Sport HD">
         <title lang="pl">4-4-2 (2)</title>
         <desc lang="pl">Kulisy polskiego futbolu tym razem odsłaniane przez dziennikarzy i ekspertów. Ciekawa i wnikliwa analiza zdarzeń na boisku.</desc>
         <category lang="pl">magazyn piłkarski</category>
     </programme>
-    <programme start="20181002163000 +0000" stop="20181002181500 +0000" channel="TVP Sport">
+    <programme start="20181002163000 +0000" stop="20181002181500 +0000" channel="TVP Sport HD">
         <title lang="pl">Gol Ekstra</title>
         <desc lang="pl">Skrót najważniejszych wydarzeń z piłkarskiej Ekstraklasy. Widzowie zobaczą między innymi gole strzelone w danej kolejce. W każdym odcinku pojawi się...</desc>
         <category lang="pl">magazyn piłkarski</category>
     </programme>
-    <programme start="20181002181500 +0000" stop="20181002200000 +0000" channel="TVP Sport">
+    <programme start="20181002181500 +0000" stop="20181002200000 +0000" channel="TVP Sport HD">
         <title lang="pl">Kajakarstwo górskie: Mistrzostwa Świata w Rio de Janeiro</title>
         <desc lang="pl">Po nieudanym ubiegłorocznych czempionacie Polacy liczą na dobry start w Rio. W mistrzostwach wystąpią m.in. kanadyjkarze Grzegorz Hedwig, Przemysław Nowak,...</desc>
         <category lang="pl">kajakarstwo</category>
     </programme>
-    <programme start="20181002200000 +0000" stop="20181002220000 +0000" channel="TVP Sport">
+    <programme start="20181002200000 +0000" stop="20181002220000 +0000" channel="TVP Sport HD">
         <title lang="pl">Retro TVP Sport</title>
         <category lang="pl">magazyn sportowy</category>
     </programme>
-    <programme start="20181002220000 +0000" stop="20181002224000 +0000" channel="TVP Sport">
+    <programme start="20181002220000 +0000" stop="20181002224000 +0000" channel="TVP Sport HD">
         <title lang="pl">Sportowy wieczór</title>
         <desc lang="pl">W programie prezentacja najważniejszych informacji sportowych minionego dnia.</desc>
         <category lang="pl">program informacyjny</category>
     </programme>
-    <programme start="20181002224000 +0000" stop="20181002233500 +0000" channel="TVP Sport">
+    <programme start="20181002224000 +0000" stop="20181002233500 +0000" channel="TVP Sport HD">
         <title lang="pl">Hokej: NHL</title>
         <desc lang="pl">Zapowiedź nowego sezonu najlepszej hokejowej ligi świata. Pucharu Stanleya bronić będą zawodnicy Washington Capitals. Rozgrywki rozpoczną się już 3 października.</desc>
         <category lang="pl">przed sezonem 2018/2019</category>
     </programme>
-    <programme start="20181002233500 +0000" stop="20181002015500 +0000" channel="TVP Sport">
+    <programme start="20181002233500 +0000" stop="20181002015500 +0000" channel="TVP Sport HD">
         <title lang="pl">Kolarstwo: Mistrzostwa Świata w Innsbrucku</title>
         <category lang="pl">wyścig elity mężczyzn</category>
     </programme>
-    <programme start="20181003015500 +0000" stop="20181003035500 +0000" channel="TVP Sport">
+    <programme start="20181003015500 +0000" stop="20181003035500 +0000" channel="TVP Sport HD">
         <title lang="pl">Boks</title>
         <desc lang="pl">Biało-Czerwoni zmierzą się z Serbią. Podopieczni Chabrosa mają za sobą kilka udanych występów. W kwietniu pokonali Szwedów w Słupsku 10:6....</desc>
         <category lang="pl">mecz towarzyski: Polska - Serbia</category>
     </programme>
-    <programme start="20181003035500 +0000" stop="20181003052000 +0000" channel="TVP Sport">
+    <programme start="20181003035500 +0000" stop="20181003052000 +0000" channel="TVP Sport HD">
         <title lang="pl">Kajakarstwo górskie: Mistrzostwa Świata w Rio de Janeiro</title>
         <category lang="pl">kajakarstwo</category>
     </programme>
-    <programme start="20181003052000 +0000" channel="TVP Sport">
+    <programme start="20181003052000 +0000" channel="TVP Sport HD">
         <title lang="pl">Sportowy wieczór</title>
         <desc lang="pl">W programie prezentacja najważniejszych informacji sportowych minionego dnia.</desc>
         <category lang="pl">program informacyjny</category>
