@@ -8,7 +8,7 @@
         <display-name>ale kino+</display-name>
     </channel>
     <channel id="AMC">
-        <display-name>AMC HD</display-name>
+        <display-name>AMC</display-name>
     </channel>
     <channel id="Animal Planet">
         <display-name>Animal Planet</display-name>
@@ -23,7 +23,6 @@
         <display-name>AXN Black</display-name>
     </channel>
     <channel id="AXN Spin">
-        <display-name>AXN Spin</display-name>
         <display-name>AXN Spin HD</display-name>
     </channel>
     <channel id="AXN White">
