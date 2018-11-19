@@ -2374,10 +2374,15 @@
         <desc lang="pl">Zbiór najnowszych i najważniejszych wiadomości z Polski i ze świata, które zostały zebrane przez reporterów stacji.</desc>
         <category lang="pl">program informacyjny</category>
     </programme>
-    <programme start="20181121200000 +0000" channel="TVN24 BiS">
+    <programme start="20181121200000 +0000" stop="20181121202000 +0000" channel="TVN24 BiS">
         <title lang="pl">Kropka nad i</title>
         <desc lang="pl">Najpopularniejsi politycy odpowiadają na pytania dotyczące bieżących problemów w naszym kraju.</desc>
         <category lang="pl">program publicystyczny</category>
+    </programme>
+    <programme start="20181121202000 +0000" channel="TVN24 BiS">
+        <title lang="pl">Fakty o świecie</title>
+        <desc lang="pl">Program informacyjny.</desc>
+        <category lang="pl">program informacyjny</category>
     </programme>
     <programme start="20181118204500 +0000" stop="20181118212000 +0000" channel="Superstacja">
         <title lang="pl">Gilotyna</title>
@@ -3828,11 +3833,6 @@
         <title lang="pl">Podryw na głupka</title>
         <desc lang="pl">Porzucony przez dziewczynę Adam postanawia zmienić się w podrywacza. Zakochuje się w Molly. Na nią ta nowa strategia nie działa.</desc>
         <category lang="pl">komedia</category>
-    </programme>
-    <programme start="20181118202000 +0000" stop="20181118203500 +0000" channel="WP">
-        <title lang="pl">SNL Polska - Weekend Update</title>
-        <desc lang="pl">Program rozrywkowy.</desc>
-        <category lang="pl">program rozrywkowy</category>
     </programme>
     <programme start="20181118203500 +0000" stop="20181118210500 +0000" channel="WP">
         <title lang="pl">Mistrzowie Kabaretu</title>
@@ -14779,10 +14779,15 @@
         <desc lang="pl">Plany George'a zmieniają się, gdy ginie jego brat. Zamierza ująć jego zabójcę.</desc>
         <category lang="pl">komedia sensacyjna</category>
     </programme>
-    <programme start="20181121182500 +0000" channel="AMC HD">
+    <programme start="20181121182500 +0000" stop="20181121202000 +0000" channel="AMC HD">
         <title lang="pl">Niezawodny plan</title>
         <desc lang="pl">Trójka przyjaciół: Sam, Kevin i Rob, zajmuje się wymyślaniem planów złodziejskich napadów. Każdy opisują w notesie, który zdobywa gangster.</desc>
         <category lang="pl">film sensacyjny</category>
+    </programme>
+    <programme start="20181121202000 +0000" channel="AMC HD">
+        <title lang="pl">Zabójstwo</title>
+        <desc lang="pl">Recydywista Johnny (Sterling Hayden) chce obrabować kasy wyścigów konnych. Prosta z pozoru akcja znacznie się komplikuje...</desc>
+        <category lang="pl">film kryminalny</category>
     </programme>
     <programme start="20181118220000 +0000" stop="20181118223000 +0000" channel="TBN HD">
         <title lang="pl">Podróżuj bez bagażu</title>
@@ -34224,11 +34229,6 @@
         <desc lang="pl">Opera Gala from Baden-Baden.</desc>
         <category lang="pl"></category>
     </programme>
-    <programme start="20181118202300 +0000" stop="20181118204300 +0000" channel="brava HD">
-        <title lang="pl">RIAS Kammerchor - Jesu, meine Freude</title>
-        <desc lang="pl">RIAS Kammerchor - Jesu, meine Freude.</desc>
-        <category lang="pl"></category>
-    </programme>
     <programme start="20181118204300 +0000" stop="20181118210200 +0000" channel="brava HD">
         <title lang="pl">Dvorák - Carnival Overture</title>
         <desc lang="pl">Dvorák - Carnival Overture.</desc>
@@ -34779,9 +34779,14 @@
         <desc lang="pl">Borodin - Symphony No. 2.</desc>
         <category lang="pl"></category>
     </programme>
-    <programme start="20181121194200 +0000" channel="brava HD">
+    <programme start="20181121194200 +0000" stop="20181121201900 +0000" channel="brava HD">
         <title lang="pl">GitaarSalon - Gitaarfestival Antwerp</title>
         <desc lang="pl">GitaarSalon - Gitaarfestival Antwerp.</desc>
+        <category lang="pl"></category>
+    </programme>
+    <programme start="20181121201900 +0000" channel="brava HD">
+        <title lang="pl">Mahler - Symphony No. 3 part 2</title>
+        <desc lang="pl">Mahler - Symphony No. 3 part 2.</desc>
         <category lang="pl"></category>
     </programme>
     <programme start="20181118210300 +0000" stop="20181118211400 +0000" channel="DJAZZ.tv HD">
@@ -40544,11 +40549,6 @@
         <desc lang="pl">Rabbit hole.</desc>
         <category lang="pl"></category>
     </programme>
-    <programme start="20181118202100 +0000" stop="20181118202800 +0000" channel="TV Okazje HD">
-        <title lang="pl">Crystal Vision - okulary powiększające</title>
-        <desc lang="pl">Crystal Vision - okulary powiększające.</desc>
-        <category lang="pl"></category>
-    </programme>
     <programme start="20181118202800 +0000" stop="20181118205700 +0000" channel="TV Okazje HD">
         <title lang="pl">Circulation Promoter - przenośne urządzenie terapeutyczno-relaksacyjne</title>
         <desc lang="pl">Circulation Promoter - przenośne urządzenie terapeutyczno-relaksacyjne.</desc>
@@ -41214,9 +41214,14 @@
         <desc lang="pl">InstaLife+ opaska akupresurowa.</desc>
         <category lang="pl"></category>
     </programme>
-    <programme start="20181121201500 +0000" channel="TV Okazje HD">
+    <programme start="20181121201500 +0000" stop="20181121202200 +0000" channel="TV Okazje HD">
         <title lang="pl">Vizmaxx Magnifying Glasses - okulary powiększające</title>
         <desc lang="pl">Vizmaxx Magnifying Glasses - okulary powiększające.</desc>
+        <category lang="pl"></category>
+    </programme>
+    <programme start="20181121202200 +0000" channel="TV Okazje HD">
+        <title lang="pl">Easy Paint Pro - niekapiący wałek do malowania</title>
+        <desc lang="pl">Easy Paint Pro - niekapiący wałek do malowania.</desc>
         <category lang="pl"></category>
     </programme>
     <programme start="20181118210000 +0000" stop="20181118213000 +0000" channel="Nobox HD">
@@ -44374,11 +44379,6 @@
         <desc lang="pl">Serial animowany.</desc>
         <category lang="pl">serial animowany</category>
     </programme>
-    <programme start="20181118202000 +0000" stop="20181118204500 +0000" channel="Cartoon Network HD">
-        <title lang="pl">Ben 10</title>
-        <desc lang="pl">10-letni Ben znajduje tajemnicze urządzenie - Omnitrix. Odtąd Ben może się zmieniać w któregoś z dziesięciu kosmitów.</desc>
-        <category lang="pl">serial animowany</category>
-    </programme>
     <programme start="20181118204500 +0000" stop="20181118211000 +0000" channel="Cartoon Network HD">
         <title lang="pl">Transformers: Cyberverse</title>
         <desc lang="pl">Serial animowany.</desc>
@@ -45224,9 +45224,14 @@
         <desc lang="pl">W każdym odcinku Dick Dastardly - oficer bez skrupułów wraz ze swoim psem Muttleyem próbuje wygrać wyścig za wszelką cenę.</desc>
         <category lang="pl">serial animowany</category>
     </programme>
-    <programme start="20181121195000 +0000" channel="Cartoon Network HD">
+    <programme start="20181121195000 +0000" stop="20181121202000 +0000" channel="Cartoon Network HD">
         <title lang="pl">Wyluzuj, Scooby-Doo!</title>
         <desc lang="pl">Serial animowany.</desc>
+        <category lang="pl">serial animowany</category>
+    </programme>
+    <programme start="20181121202000 +0000" channel="Cartoon Network HD">
+        <title lang="pl">Ben 10</title>
+        <desc lang="pl">10-letni Ben znajduje tajemnicze urządzenie - Omnitrix. Odtąd Ben może się zmieniać w któregoś z dziesięciu kosmitów.</desc>
         <category lang="pl">serial animowany</category>
     </programme>
     <programme start="20181118203000 +0000" stop="20181118205000 +0000" channel="BBC Cbeebies">
@@ -47814,10 +47819,15 @@
         <desc lang="pl">Animowany serial dla najmłodszych. Opowiada o losach sympatycznej świnki Peppy, jej brata Jacka oraz ich rodziców.</desc>
         <category lang="pl">serial animowany</category>
     </programme>
-    <programme start="20181121200500 +0000" channel="Nick Jr.">
+    <programme start="20181121200500 +0000" stop="20181121202000 +0000" channel="Nick Jr.">
         <title lang="pl">Kiva potrafi</title>
         <desc lang="pl">Przygody pięcioletniej Kivy, która przemierza krainę wyobraźni razem ze swoimi przyjaciółmi: Saulem oraz pieskiem Angusem.</desc>
         <category lang="pl">serial animowany</category>
+    </programme>
+    <programme start="20181121202000 +0000" channel="Nick Jr.">
+        <title lang="pl">Wallykazam!</title>
+        <desc lang="pl">Serial dla dzieci.</desc>
+        <category lang="pl">serial dla dzieci</category>
     </programme>
     <programme start="20181118203000 +0000" stop="20181118205500 +0000" channel="Top KIDS">
         <title lang="pl">Gerald McBoing-Boing</title>
@@ -51934,15 +51944,15 @@
         <desc lang="pl">Program publicystyczny.</desc>
         <category lang="pl">program publicystyczny</category>
     </programme>
-    <programme start="20181121200000 +0000" channel="TVP Kultura">
+    <programme start="20181121200000 +0000" stop="20181121202000 +0000" channel="TVP Kultura">
         <title lang="pl">Informacje kulturalne</title>
         <desc lang="pl">Przegląd najważniejszych, aktualnych wydarzeń ze świata kultury i sztuki.</desc>
         <category lang="pl">magazyn kulturalny</category>
     </programme>
-    <programme start="20181118202000 +0000" stop="20181118211500 +0000" channel="TVP Seriale">
-        <title lang="pl">Ojciec Mateusz 6</title>
-        <desc lang="pl">Szósta seria przygód detektywa amatora. Proboszcz małej parafii, ojciec Mateusz pasjonuje się rozwiązywaniem zagadek kryminalnych.</desc>
-        <category lang="pl">serial kryminalny</category>
+    <programme start="20181121202000 +0000" channel="TVP Kultura">
+        <title lang="pl">Pianista</title>
+        <desc lang="pl">Historia kompozytora, który cudem uniknął śmierci w obozie zagłady.</desc>
+        <category lang="pl">dramat wojenny</category>
     </programme>
     <programme start="20181118211500 +0000" stop="20181118221500 +0000" channel="TVP Seriale">
         <title lang="pl">Ojciec Mateusz 6</title>
@@ -52369,9 +52379,14 @@
         <desc lang="pl">Decydujący głos ma w rodzinie państwa Polaków Joanna z zawodu pielęgniarka. Jej mąż, Jerzy, pracuje jako deweloper. Wychowują trójkę dzieci.</desc>
         <category lang="pl">serial komediowy</category>
     </programme>
-    <programme start="20181121192500 +0000" channel="TVP Seriale">
+    <programme start="20181121192500 +0000" stop="20181121202000 +0000" channel="TVP Seriale">
         <title lang="pl">Ojciec Mateusz 6</title>
         <desc lang="pl">Szósta seria przygód detektywa amatora. Proboszcz małej parafii, ojciec Mateusz pasjonuje się rozwiązywaniem zagadek kryminalnych.</desc>
+        <category lang="pl">serial kryminalny</category>
+    </programme>
+    <programme start="20181121202000 +0000" channel="TVP Seriale">
+        <title lang="pl">Komisarz Alex 4</title>
+        <desc lang="pl">Dalsze losy pracowników biura policji kryminalnej z Łodzi, którzy z pomocą owczarka niemieckiego Aleksa rozwiązują zagadki kryminalne.</desc>
         <category lang="pl">serial kryminalny</category>
     </programme>
     <programme start="20181118215500 +0000" stop="20181119002500 +0000" channel="TV Puls">
