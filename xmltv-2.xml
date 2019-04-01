@@ -1575,9 +1575,14 @@
         <desc lang="pl">Program prezentujący informacje z kraju i ze świata z przymrużeniem oka.</desc>
         <category lang="pl">magazyn</category>
     </programme>
-    <programme start="20190403125000 +0000" channel="Polsat News 2">
+    <programme start="20190403125000 +0000" stop="20190403134500 +0000" channel="Polsat News 2">
         <title lang="pl">Fajka pokoju</title>
         <desc lang="pl">Jolanta Fajkowska zaprasza znane kobiety: ekspertki, autorytety i gwiazdy do rozmowy o tym, co jest dla nich najważniejsze.</desc>
+        <category lang="pl">program publicystyczny</category>
+    </programme>
+    <programme start="20190403134500 +0000" channel="Polsat News 2">
+        <title lang="pl">Państwo w państwie</title>
+        <desc lang="pl">Program publicystyczny.</desc>
         <category lang="pl">program publicystyczny</category>
     </programme>
     <programme start="20190331143000 +0000" stop="20190331150000 +0000" channel="TVN24 BiS">
@@ -2555,11 +2560,6 @@
         <desc lang="pl">Codziennie omawiamy najważniejsze wydarzenia dnia. Z naszymi wozami transmisyjnymi jesteśmy wszędzie tam, gdzie dzieje się coś ciekawego.</desc>
         <category lang="pl">program informacyjny</category>
     </programme>
-    <programme start="20190331135000 +0000" stop="20190331155000 +0000" channel="Zoom TV">
-        <title lang="pl">Na tropie Różowej Pantery</title>
-        <desc lang="pl">Znów zostaje skradziony słynny brylant Różowa Pantera. Prezydent wzywa na pomoc inspektora Clouseau... Ostatnia rola Petera Sellersa.</desc>
-        <category lang="pl">komedia sensacyjna</category>
-    </programme>
     <programme start="20190331155000 +0000" stop="20190331165000 +0000" channel="Zoom TV">
         <title lang="pl">Hity polskiego kabaretu 2</title>
         <desc lang="pl">Program rozrywkowy.</desc>
@@ -3064,11 +3064,6 @@
         <title lang="pl">Wiedźmy 4</title>
         <desc lang="pl">Serial obyczajowy.</desc>
         <category lang="pl">serial obyczajowy</category>
-    </programme>
-    <programme start="20190331135000 +0000" stop="20190331140000 +0000" channel="Nowa TV">
-        <title lang="pl">Smaki Agaty</title>
-        <desc lang="pl">Magazyn kulinarny.</desc>
-        <category lang="pl">magazyn kulinarny</category>
     </programme>
     <programme start="20190331140000 +0000" stop="20190331141000 +0000" channel="Nowa TV">
         <title lang="pl">Smaki Agaty</title>
@@ -4630,11 +4625,6 @@
         <desc lang="pl">Film przygodowy.</desc>
         <category lang="pl">film przygodowy</category>
     </programme>
-    <programme start="20190331134500 +0000" stop="20190331153500 +0000" channel="HBO2 HD">
-        <title lang="pl">Moja kolacja z Hervé</title>
-        <desc lang="pl">Dramat biograficzny.</desc>
-        <category lang="pl">dramat biograficzny</category>
-    </programme>
     <programme start="20190331153500 +0000" stop="20190331174000 +0000" channel="HBO2 HD">
         <title lang="pl">Vincent i koniec świata</title>
         <desc lang="pl">Komediodramat.</desc>
@@ -5155,10 +5145,15 @@
         <desc lang="pl">Niezapowiedziany gość składa wizytę Daenerys. Jon musi stłumić nagły wybuch rebelii. Tymczasem Tyrion układa plany podboju Westeros.</desc>
         <category lang="pl">serial fantasy</category>
     </programme>
-    <programme start="20190403132000 +0000" channel="HBO3 HD">
+    <programme start="20190403132000 +0000" stop="20190403135000 +0000" channel="HBO3 HD">
         <title lang="pl">Przegląd tygodnia: Wieczór z Johnem Oliverem 6</title>
         <desc lang="pl">Talk-show.</desc>
         <category lang="pl">talk-show</category>
+    </programme>
+    <programme start="20190403135000 +0000" channel="HBO3 HD">
+        <title lang="pl">Młody Sheldon 2</title>
+        <desc lang="pl">Serial komediowy.</desc>
+        <category lang="pl">serial komediowy</category>
     </programme>
     <programme start="20190331142000 +0000" stop="20190331162000 +0000" channel="Cinemax HD">
         <title lang="pl">Hazardziści</title>
@@ -5570,10 +5565,15 @@
         <desc lang="pl">Dramat obyczajowy.</desc>
         <category lang="pl">dramat obyczajowy</category>
     </programme>
-    <programme start="20190403111500 +0000" channel="Cinemax 2 HD">
+    <programme start="20190403111500 +0000" stop="20190403134500 +0000" channel="Cinemax 2 HD">
         <title lang="pl">Wszystko za życie</title>
         <desc lang="pl">Młody człowiek wybiera prawdziwą wolność.</desc>
         <category lang="pl">dramat biograficzny</category>
+    </programme>
+    <programme start="20190403134500 +0000" channel="Cinemax 2 HD">
+        <title lang="pl">6A</title>
+        <desc lang="pl">Dramat obyczajowy.</desc>
+        <category lang="pl">dramat obyczajowy</category>
     </programme>
     <programme start="20190331140000 +0000" stop="20190331150000 +0000" channel="Polsat 2">
         <title lang="pl">Przyjaciółki</title>
@@ -6544,11 +6544,6 @@
         <title lang="pl">Zostań jeszcze chwilę</title>
         <desc lang="pl">Dramat obyczajowy.</desc>
         <category lang="pl">dramat obyczajowy</category>
-    </programme>
-    <programme start="20190331134500 +0000" stop="20190331154000 +0000" channel="stopklatka tv">
-        <title lang="pl">Lassie</title>
-        <desc lang="pl">Przygody najwierniejszego psa wszech czasów.</desc>
-        <category lang="pl">film przygodowy</category>
     </programme>
     <programme start="20190331154000 +0000" stop="20190331180000 +0000" channel="stopklatka tv">
         <title lang="pl">Wielki mistrz</title>
@@ -10110,10 +10105,15 @@
         <desc lang="pl">Kulisy pracy personelu i życia zamożnych gości luksusowego hotelu w Londynie.</desc>
         <category lang="pl">serial obyczajowy</category>
     </programme>
-    <programme start="20190403130000 +0000" channel="BBC First HD">
+    <programme start="20190403130000 +0000" stop="20190403134500 +0000" channel="BBC First HD">
         <title lang="pl">Doktor Who 9</title>
         <desc lang="pl">Zygoni skutecznie powstrzymują działania UNITA. Jedynie Doktor może uwolnić porwaną Osgood.</desc>
         <category lang="pl">serial SF</category>
+    </programme>
+    <programme start="20190403134500 +0000" channel="BBC First HD">
+        <title lang="pl">Nowe triki 10</title>
+        <desc lang="pl">Serial kryminalny.</desc>
+        <category lang="pl">serial kryminalny</category>
     </programme>
     <programme start="20190331140000 +0000" stop="20190331154500 +0000" channel="Sundance TV HD">
         <title lang="pl">Spike Island</title>
@@ -11044,11 +11044,6 @@
         <title lang="pl">Pokój Marvina</title>
         <desc lang="pl">Jedyną nadzieją dla umierającej Bessie jest syn jej siostry.</desc>
         <category lang="pl">dramat psychologiczny</category>
-    </programme>
-    <programme start="20190331134500 +0000" stop="20190331140500 +0000" channel="Comedy Central">
-        <title lang="pl">Gwiazdy lombardu</title>
-        <desc lang="pl">Rick Harrison i jego rodzina są właścicielami lombardu. Rick i jego krewni kupują, sprzedają i wyceniają przedmioty o historycznej wartości.</desc>
-        <category lang="pl">reality show</category>
     </programme>
     <programme start="20190331140500 +0000" stop="20190331142500 +0000" channel="Comedy Central">
         <title lang="pl">Gwiazdy lombardu</title>
@@ -12185,10 +12180,15 @@
         <desc lang="pl">Serial przybliża procedury stosowane w procesach przed sądem rodzinnym - w sprawach o rozwód, alimenty, eksmisje, itd, itp.</desc>
         <category lang="pl">serial fabularno-dokumentalny</category>
     </programme>
-    <programme start="20190403130000 +0000" channel="Comedy Central Family">
+    <programme start="20190403130000 +0000" stop="20190403134500 +0000" channel="Comedy Central Family">
         <title lang="pl">Idealna niania 9</title>
         <desc lang="pl">Reality show.</desc>
         <category lang="pl">reality show</category>
+    </programme>
+    <programme start="20190403134500 +0000" channel="Comedy Central Family">
+        <title lang="pl">Damy i wieśniaczki. Ukraina 6</title>
+        <desc lang="pl">Serial fabularno-dokumentalny.</desc>
+        <category lang="pl">serial fabularno-dokumentalny</category>
     </programme>
     <programme start="20190331140000 +0000" stop="20190331143000 +0000" channel="CBS reality">
         <title lang="pl">Strzegąc granic 10</title>
@@ -13980,11 +13980,6 @@
         <desc lang="pl">Talk-show.</desc>
         <category lang="pl">talk-show</category>
     </programme>
-    <programme start="20190331134500 +0000" stop="20190331140500 +0000" channel="Fokus TV">
-        <title lang="pl">Gwiazdy lombardu</title>
-        <desc lang="pl">Rick Harrison i jego rodzina są właścicielami lombardu. Rick i jego krewni kupują, sprzedają i wyceniają przedmioty o historycznej wartości.</desc>
-        <category lang="pl">reality show</category>
-    </programme>
     <programme start="20190331140500 +0000" stop="20190331142500 +0000" channel="Fokus TV">
         <title lang="pl">Gwiazdy lombardu</title>
         <desc lang="pl">Rick Harrison i jego rodzina są właścicielami lombardu. Rick i jego krewni kupują, sprzedają i wyceniają przedmioty o historycznej wartości.</desc>
@@ -14980,15 +14975,15 @@
         <desc lang="pl">Stream Nation - Cuphead.</desc>
         <category lang="pl"></category>
     </programme>
-    <programme start="20190403123000 +0000" channel="Discovery Channel">
+    <programme start="20190403123000 +0000" stop="20190403135000 +0000" channel="Discovery Channel">
         <title lang="pl">Esport - Starladder S3 Og Vs Vg.j, Mecz 2</title>
         <desc lang="pl">Esport - Starladder S3 Og Vs Vg.j, Mecz 2.</desc>
         <category lang="pl"></category>
     </programme>
-    <programme start="20190331134500 +0000" stop="20190331154000 +0000" channel="Discovery life">
-        <title lang="pl">Lassie</title>
-        <desc lang="pl">Przygody najwierniejszego psa wszech czasów.</desc>
-        <category lang="pl">film przygodowy</category>
+    <programme start="20190403135000 +0000" channel="Discovery Channel">
+        <title lang="pl">Platformers</title>
+        <desc lang="pl">Platformers.</desc>
+        <category lang="pl"></category>
     </programme>
     <programme start="20190331154000 +0000" stop="20190331180000 +0000" channel="Discovery life">
         <title lang="pl">Wielki mistrz</title>
@@ -19445,11 +19440,6 @@
         <desc lang="pl">Serial dokumentalny.</desc>
         <category lang="pl">serial dokumentalny</category>
     </programme>
-    <programme start="20190331134500 +0000" stop="20190331141500 +0000" channel="Adventure HD">
-        <title lang="pl">Celnicy</title>
-        <desc lang="pl">Serial dokumentalny.</desc>
-        <category lang="pl">serial dokumentalny</category>
-    </programme>
     <programme start="20190331141500 +0000" stop="20190331145000 +0000" channel="Adventure HD">
         <title lang="pl">Dziewczyny w raju</title>
         <desc lang="pl">Magazyn.</desc>
@@ -20035,15 +20025,15 @@
         <desc lang="pl">Program motoryzacyjny w nowej formule. Np. obok samochodów osobowych pokazuje pojazdy wielkogabarytowe. Prowadzi Sławek Sochacki.</desc>
         <category lang="pl">magazyn motoryzacyjny</category>
     </programme>
-    <programme start="20190403123500 +0000" channel="Adventure HD">
+    <programme start="20190403123500 +0000" stop="20190403134500 +0000" channel="Adventure HD">
         <title lang="pl">Artland: Galeria na kółkach</title>
         <desc lang="pl">Magazyn kulturalny.</desc>
         <category lang="pl">magazyn kulturalny</category>
     </programme>
-    <programme start="20190331134500 +0000" stop="20190331141500 +0000" channel="Motowizja HD">
-        <title lang="pl">Autoportret Ostrego</title>
-        <desc lang="pl">Magazyn motoryzacyjny.</desc>
-        <category lang="pl">magazyn motoryzacyjny</category>
+    <programme start="20190403134500 +0000" channel="Adventure HD">
+        <title lang="pl">Klasyka z Simonem Callowem</title>
+        <desc lang="pl">Magazyn muzyczny.</desc>
+        <category lang="pl">magazyn muzyczny</category>
     </programme>
     <programme start="20190331141500 +0000" stop="20190331145000 +0000" channel="Motowizja HD">
         <title lang="pl">The Fast Lane</title>
@@ -21645,15 +21635,15 @@
         <desc lang="pl">Program powtarza się w godzinnych blokach.</desc>
         <category lang="pl">program rozrywkowy</category>
     </programme>
-    <programme start="20190403131500 +0000" channel="HGTV">
+    <programme start="20190403131500 +0000" stop="20190403134500 +0000" channel="HGTV">
         <title lang="pl">Recepta na stary dom</title>
         <desc lang="pl">Program powtarza się w godzinnych blokach.</desc>
         <category lang="pl">program rozrywkowy</category>
     </programme>
-    <programme start="20190331134500 +0000" stop="20190331141500 +0000" channel="Food Network HD">
-        <title lang="pl">Człowiek, ogień i wyżerka</title>
-        <desc lang="pl">Roger Mooking objeżdża USA w poszukiwaniu najbardziej innowacyjnych metod gotowania przy pomocy ognia.</desc>
-        <category lang="pl">magazyn kulinarny</category>
+    <programme start="20190403134500 +0000" channel="HGTV">
+        <title lang="pl">Kupujemy dom nad jeziorem 5</title>
+        <desc lang="pl">Program powtarza się w godzinnych blokach.</desc>
+        <category lang="pl">serial dokumentalny</category>
     </programme>
     <programme start="20190331141500 +0000" stop="20190331144500 +0000" channel="Food Network HD">
         <title lang="pl">Człowiek, ogień i wyżerka</title>
@@ -22220,7 +22210,12 @@
         <desc lang="pl">Reality show.</desc>
         <category lang="pl">reality show</category>
     </programme>
-    <programme start="20190403131500 +0000" channel="Food Network HD">
+    <programme start="20190403131500 +0000" stop="20190403134500 +0000" channel="Food Network HD">
+        <title lang="pl">Światowa kuchnia Ravinder</title>
+        <desc lang="pl">Magazyn kulinarny.</desc>
+        <category lang="pl">magazyn kulinarny</category>
+    </programme>
+    <programme start="20190403134500 +0000" channel="Food Network HD">
         <title lang="pl">Światowa kuchnia Ravinder</title>
         <desc lang="pl">Magazyn kulinarny.</desc>
         <category lang="pl">magazyn kulinarny</category>
@@ -23035,15 +23030,15 @@
         <desc lang="pl">Jeremy Clarkson wraz z dwójką przyjaciół Jamesem i Richardem testują auta, poddając je ekstremalnym zadaniom.</desc>
         <category lang="pl">magazyn motoryzacyjny</category>
     </programme>
-    <programme start="20190403123500 +0000" channel="BBC Brit HD">
+    <programme start="20190403123500 +0000" stop="20190403134500 +0000" channel="BBC Brit HD">
         <title lang="pl">Top Gear 9</title>
         <desc lang="pl">Jeremy Clarkson wraz z dwójką przyjaciół Jamesem i Richardem testują auta poddając je ekstremalnym zadaniom.</desc>
         <category lang="pl">magazyn motoryzacyjny</category>
     </programme>
-    <programme start="20190331135000 +0000" stop="20190331145500 +0000" channel="BBC Lifestyle HD">
-        <title lang="pl">Kuchenne koszmary 4</title>
-        <desc lang="pl">Zła strategia właścicieli restauracji Granary sprawia, że ekskluzywny lokal odwiedza niewielu klientów. Gordon Ramsay musi temu zaradzić.</desc>
-        <category lang="pl">serial dokumentalny</category>
+    <programme start="20190403134500 +0000" channel="BBC Brit HD">
+        <title lang="pl">Top Gear 9</title>
+        <desc lang="pl">Jeremy Clarkson wraz z dwójką przyjaciół Jamesem i Richardem testują auta poddając je ekstremalnym zadaniom.</desc>
+        <category lang="pl">magazyn motoryzacyjny</category>
     </programme>
     <programme start="20190331145500 +0000" stop="20190331155500 +0000" channel="BBC Lifestyle HD">
         <title lang="pl">Remont w budżecie</title>
@@ -23425,9 +23420,14 @@
         <desc lang="pl">Magazyn kulinarny.</desc>
         <category lang="pl">magazyn kulinarny</category>
     </programme>
-    <programme start="20190403125000 +0000" channel="BBC Lifestyle HD">
+    <programme start="20190403125000 +0000" stop="20190403135000 +0000" channel="BBC Lifestyle HD">
         <title lang="pl">Zapraszam do stołu: Podwójnie ugotowani 2</title>
         <desc lang="pl">Magazyn kulinarny.</desc>
+        <category lang="pl">magazyn kulinarny</category>
+    </programme>
+    <programme start="20190403135000 +0000" channel="BBC Lifestyle HD">
+        <title lang="pl">Czekoladomania 5</title>
+        <desc lang="pl">Kulisy działalności słynnego sklepu z czekoladą w Brighton. Pojawia się tu wiele znanych osób.</desc>
         <category lang="pl">magazyn kulinarny</category>
     </programme>
     <programme start="20190331140000 +0000" stop="20190331150000 +0000" channel="E! HD">
@@ -36330,14 +36330,14 @@
         <desc lang="pl">Grammar wise.</desc>
         <category lang="pl"></category>
     </programme>
-    <programme start="20190403134000 +0000" channel="English Club TV HD">
+    <programme start="20190403134000 +0000" stop="20190403135000 +0000" channel="English Club TV HD">
         <title lang="pl">City grammar</title>
         <desc lang="pl">City grammar.</desc>
         <category lang="pl"></category>
     </programme>
-    <programme start="20190331135000 +0000" stop="20190331141800 +0000" channel="TV Okazje HD">
-        <title lang="pl">Circulation Promoter - przenośne urządzenie terapeutyczno-relaksacyjne</title>
-        <desc lang="pl">Circulation Promoter - przenośne urządzenie terapeutyczno-relaksacyjne.</desc>
+    <programme start="20190403135000 +0000" channel="English Club TV HD">
+        <title lang="pl">What did they say</title>
+        <desc lang="pl">What did they say.</desc>
         <category lang="pl"></category>
     </programme>
     <programme start="20190331141800 +0000" stop="20190331143300 +0000" channel="TV Okazje HD">
@@ -36810,9 +36810,14 @@
         <desc lang="pl">Miracle Blade - zestaw noży kuchennych.</desc>
         <category lang="pl"></category>
     </programme>
-    <programme start="20190403133300 +0000" channel="TV Okazje HD">
+    <programme start="20190403133300 +0000" stop="20190403134800 +0000" channel="TV Okazje HD">
         <title lang="pl">Easy Paint Pro - niekapiący wałek do malowania</title>
         <desc lang="pl">Easy Paint Pro - niekapiący wałek do malowania.</desc>
+        <category lang="pl"></category>
+    </programme>
+    <programme start="20190403134800 +0000" channel="TV Okazje HD">
+        <title lang="pl">Crystal Vision - okulary powiększające</title>
+        <desc lang="pl">Crystal Vision - okulary powiększające.</desc>
         <category lang="pl"></category>
     </programme>
     <programme start="20190331140000 +0000" stop="20190331160000 +0000" channel="Nobox HD">
@@ -37024,11 +37029,6 @@
         <title lang="pl">Adam, pomóż</title>
         <desc lang="pl">Adam, pomóż.</desc>
         <category lang="pl"></category>
-    </programme>
-    <programme start="20190331134500 +0000" stop="20190331140500 +0000" channel="Disney Junior">
-        <title lang="pl">Vampirina</title>
-        <desc lang="pl">Przygody młodej wampirzycy imieniem Vee. Jej rodzina przenosi się do Pensylwanii, gdzie zamierza prowadzić pensjonat dla guli i goblinów.</desc>
-        <category lang="pl">serial animowany</category>
     </programme>
     <programme start="20190331140500 +0000" stop="20190331142500 +0000" channel="Disney Junior">
         <title lang="pl">Vampirina</title>
@@ -38855,11 +38855,6 @@
         <desc lang="pl">Serial animowany.</desc>
         <category lang="pl">serial animowany</category>
     </programme>
-    <programme start="20190331134500 +0000" stop="20190331140000 +0000" channel="Cartoon Network HD">
-        <title lang="pl">Niesamowity świat Gumballa</title>
-        <desc lang="pl">Serial dla dzieci o Gumballu, niebieskim kocie z wielką głową, który mieszka w miasteczku zamieszkanym przez niezwykłe, barwne postacie.</desc>
-        <category lang="pl">serial animowany</category>
-    </programme>
     <programme start="20190331140000 +0000" stop="20190331141500 +0000" channel="Cartoon Network HD">
         <title lang="pl">Jabłko i Szczypior</title>
         <desc lang="pl">Serial animowany.</desc>
@@ -39705,20 +39700,15 @@
         <desc lang="pl">Serial animowany.</desc>
         <category lang="pl">serial animowany</category>
     </programme>
-    <programme start="20190403132000 +0000" channel="Cartoon Network HD">
+    <programme start="20190403132000 +0000" stop="20190403134500 +0000" channel="Cartoon Network HD">
         <title lang="pl">Niesamowity świat Gumballa</title>
         <desc lang="pl">Serial dla dzieci o Gumballu, niebieskim kocie z wielką głową, który mieszka w miasteczku zamieszkanym przez niezwykłe, barwne postacie.</desc>
         <category lang="pl">serial animowany</category>
     </programme>
-    <programme start="20190331134500 +0000" stop="20190331135000 +0000" channel="BBC Cbeebies">
-        <title lang="pl">Yakka Dee 2</title>
-        <desc lang="pl">Program dla dzieci.</desc>
-        <category lang="pl">program dla dzieci</category>
-    </programme>
-    <programme start="20190331135000 +0000" stop="20190331135500 +0000" channel="BBC Cbeebies">
-        <title lang="pl">Yakka Dee 2</title>
-        <desc lang="pl">Program dla dzieci.</desc>
-        <category lang="pl">program dla dzieci</category>
+    <programme start="20190403134500 +0000" channel="Cartoon Network HD">
+        <title lang="pl">Niesamowity świat Gumballa</title>
+        <desc lang="pl">Serial dla dzieci o Gumballu, niebieskim kocie z wielką głową, który mieszka w miasteczku zamieszkanym przez niezwykłe, barwne postacie.</desc>
+        <category lang="pl">serial animowany</category>
     </programme>
     <programme start="20190331135500 +0000" stop="20190331140500 +0000" channel="BBC Cbeebies">
         <title lang="pl">Kicia i piesek</title>
@@ -41155,15 +41145,15 @@
         <desc lang="pl">Program dla dzieci, prezentujący ciekawych i zwariowanych bohaterów.</desc>
         <category lang="pl">program dla dzieci</category>
     </programme>
-    <programme start="20190403132500 +0000" channel="BBC Cbeebies">
+    <programme start="20190403132500 +0000" stop="20190403134500 +0000" channel="BBC Cbeebies">
         <title lang="pl">Andy na safari</title>
         <desc lang="pl">Program dla dzieci.</desc>
         <category lang="pl">program dla dzieci</category>
     </programme>
-    <programme start="20190331134500 +0000" stop="20190331141500 +0000" channel="Nick Jr.">
-        <title lang="pl">Psi Patrol 2</title>
-        <desc lang="pl">Perypetie szczeniąt: Chase'a, Marshalla, Rocky'ego, Zumy, Rubble'a i Skye, które razem z 10-letnim Ryderem pomagają lokalnej społeczności.</desc>
-        <category lang="pl">serial animowany</category>
+    <programme start="20190403134500 +0000" channel="BBC Cbeebies">
+        <title lang="pl">Hau hau, Ćwirka i Panda Dave 2</title>
+        <desc lang="pl">Serial dla dzieci.</desc>
+        <category lang="pl">serial dla dzieci</category>
     </programme>
     <programme start="20190331141500 +0000" stop="20190331142500 +0000" channel="Nick Jr.">
         <title lang="pl">Psi Patrol 3</title>
@@ -42125,9 +42115,14 @@
         <desc lang="pl">7-letni Zack codziennie przeżywa nowe przygody, a wszelkie problemy rozwiązuje z łatwością. Jego przyjacielem jest kaczka o imieniu Quack.</desc>
         <category lang="pl">serial animowany</category>
     </programme>
-    <programme start="20190403131500 +0000" channel="Nick Jr.">
+    <programme start="20190403131500 +0000" stop="20190403134500 +0000" channel="Nick Jr.">
         <title lang="pl">Top Wing: Ptasia Akademia</title>
         <desc lang="pl">Kadeci Top Wing szkolą się w Ptasiej Akademii, aby zostać najlepszymi pilotami na Zakręconej Wyspie.</desc>
+        <category lang="pl">serial animowany</category>
+    </programme>
+    <programme start="20190403134500 +0000" channel="Nick Jr.">
+        <title lang="pl">Psi Patrol</title>
+        <desc lang="pl">Perypetie bohaterskich szczeniąt, które wspólnie z 10-letnim Ryderem spieszą na ratunek potrzebującym i stawiają czoło zagrożeniom.</desc>
         <category lang="pl">serial animowany</category>
     </programme>
     <programme start="20190331140000 +0000" stop="20190331143000 +0000" channel="Top KIDS">
@@ -45070,9 +45065,14 @@
         <desc lang="pl">Dziennikarskie omówienie najważniejszych oraz najciekawszych wydarzeń minionego dnia.</desc>
         <category lang="pl">program informacyjny</category>
     </programme>
-    <programme start="20190403132900 +0000" channel="TVP Info">
+    <programme start="20190403132900 +0000" stop="20190403135000 +0000" channel="TVP Info">
         <title lang="pl">Serwis Info</title>
         <desc lang="pl">Dziennikarskie omówienie najważniejszych oraz najciekawszych wydarzeń minionego dnia.</desc>
+        <category lang="pl">program informacyjny</category>
+    </programme>
+    <programme start="20190403135000 +0000" channel="TVP Info">
+        <title lang="pl">Pogoda Info</title>
+        <desc lang="pl">Szczegółowe informacje na temat stanu pogody w najbliższych dniach.</desc>
         <category lang="pl">program informacyjny</category>
     </programme>
     <programme start="20190331141500 +0000" stop="20190331151000 +0000" channel="TVP Rozrywka">
@@ -45929,11 +45929,6 @@
         <title lang="pl">Wszystkie kolory świata</title>
         <desc lang="pl">Serial dokumentalny.</desc>
         <category lang="pl">serial dokumentalny</category>
-    </programme>
-    <programme start="20190331135000 +0000" stop="20190331142500 +0000" channel="TVP Kultura">
-        <title lang="pl">Chuligan literacki</title>
-        <desc lang="pl">Magazyn kulturalny.</desc>
-        <category lang="pl">magazyn kulturalny</category>
     </programme>
     <programme start="20190331142500 +0000" stop="20190331171500 +0000" channel="TVP Kultura">
         <title lang="pl">Faworyta</title>
@@ -49860,16 +49855,6 @@
         <desc lang="pl">Serial animowany.</desc>
         <category lang="pl">serial animowany</category>
     </programme>
-    <programme start="20190331134500 +0000" stop="20190331135000 +0000" channel="TOYA">
-        <title lang="pl">Migawka</title>
-        <desc lang="pl">Program informacyjny.</desc>
-        <category lang="pl">program informacyjny</category>
-    </programme>
-    <programme start="20190331135000 +0000" stop="20190331140000 +0000" channel="TOYA">
-        <title lang="pl">Koniunktura</title>
-        <desc lang="pl">Felieton.</desc>
-        <category lang="pl">felieton</category>
-    </programme>
     <programme start="20190331140000 +0000" stop="20190331140500 +0000" channel="TOYA">
         <title lang="pl">Pogoda dla Łodzi</title>
         <desc lang="pl">Prognoza przygotowana przez pracowników Instytutu Meteorologii i Gospodarki Wodnej na Lublinku.</desc>
@@ -50800,10 +50785,15 @@
         <desc lang="pl">Cykl reportaży.</desc>
         <category lang="pl">cykl reportaży</category>
     </programme>
-    <programme start="20190403133500 +0000" channel="TOYA">
+    <programme start="20190403133500 +0000" stop="20190403135000 +0000" channel="TOYA">
         <title lang="pl">Nasze sprawy</title>
         <desc lang="pl">Magazyn reporterów.</desc>
         <category lang="pl">magazyn reporterów</category>
+    </programme>
+    <programme start="20190403135000 +0000" channel="TOYA">
+        <title lang="pl">Pod lupą</title>
+        <desc lang="pl">Prowadzący Błażej Kronic i Jakub Wojtczak przedstawiają kulisy najważniejszych wydarzeń mijającego tygodnia.</desc>
+        <category lang="pl">magazyn informacyjny</category>
     </programme>
     <programme start="20190331140000 +0000" stop="20190331143000 +0000" channel="TVN24 HD">
         <title lang="pl">Serwis informacyjny, Prognoza pogody</title>
@@ -56850,11 +56840,6 @@
         <desc lang="pl">Serial dokumentalny.</desc>
         <category lang="pl">serial dokumentalny</category>
     </programme>
-    <programme start="20190331135000 +0000" stop="20190331144500 +0000" channel="Polsat Viasat Explore HD">
-        <title lang="pl">Australijscy poszukiwacze złota 2</title>
-        <desc lang="pl">Serial dokumentalny.</desc>
-        <category lang="pl">serial dokumentalny</category>
-    </programme>
     <programme start="20190331144500 +0000" stop="20190331154500 +0000" channel="Polsat Viasat Explore HD">
         <title lang="pl">Australijscy poszukiwacze złota 2</title>
         <desc lang="pl">Serial dokumentalny.</desc>
@@ -57714,11 +57699,6 @@
         <title lang="pl">Rody przeklęte</title>
         <desc lang="pl">Opowieść o rodzinie Kennedych, która osiągnęła w XX-wiecznej Ameryce wyjątkowy status i którą dotknęło wiele tragicznych wypadków.</desc>
         <category lang="pl">serial dokumentalny</category>
-    </programme>
-    <programme start="20190331134500 +0000" stop="20190331141500 +0000" channel="TVN Turbo HD">
-        <title lang="pl">Nowy gadżet</title>
-        <desc lang="pl">Przewodnik po nowinkach technologicznych. Prowadzący podpowiadają, jak w natłoku różnych urządzeń wybrać idealny gadżet dla siebie.</desc>
-        <category lang="pl">program rozrywkowy</category>
     </programme>
     <programme start="20190331141500 +0000" stop="20190331150000 +0000" channel="TVN Turbo HD">
         <title lang="pl">Wojny samochodowe</title>
@@ -61660,9 +61640,14 @@
         <desc lang="pl">Stream Nation - Cuphead.</desc>
         <category lang="pl"></category>
     </programme>
-    <programme start="20190403123000 +0000" channel="Game Toon HD">
+    <programme start="20190403123000 +0000" stop="20190403135000 +0000" channel="Game Toon HD">
         <title lang="pl">Esport - Starladder S3 Og Vs Vg.j, Mecz 2</title>
         <desc lang="pl">Esport - Starladder S3 Og Vs Vg.j, Mecz 2.</desc>
+        <category lang="pl"></category>
+    </programme>
+    <programme start="20190403135000 +0000" channel="Game Toon HD">
+        <title lang="pl">Platformers</title>
+        <desc lang="pl">Platformers.</desc>
         <category lang="pl"></category>
     </programme>
     <programme start="20190331170000 +0000" stop="20190331210000 +0000" channel="Retro HD">
@@ -62240,9 +62225,14 @@
         <desc lang="pl">Stream Nation - Cuphead.</desc>
         <category lang="pl"></category>
     </programme>
-    <programme start="20190403123000 +0000" channel="Gametoon HD">
+    <programme start="20190403123000 +0000" stop="20190403135000 +0000" channel="Gametoon HD">
         <title lang="pl">Esport - Starladder S3 Og Vs Vg.j, Mecz 2</title>
         <desc lang="pl">Esport - Starladder S3 Og Vs Vg.j, Mecz 2.</desc>
+        <category lang="pl"></category>
+    </programme>
+    <programme start="20190403135000 +0000" channel="Gametoon HD">
+        <title lang="pl">Platformers</title>
+        <desc lang="pl">Platformers.</desc>
         <category lang="pl"></category>
     </programme>
 </tv>
